@@ -1,0 +1,65 @@
+body {
+  font: 18px/1.25em "myriad-pro", Helvetica, Arial, sans-serif;
+}
+
+h2 {
+  font: 64px "tangerine", Helvetica, Arial, sans-serif;
+  margin: 0 0 10px 0;
+}
+
+iframe {
+  background: #fff;
+  border: 1px solid #ddd;
+  box-shadow: 0 3px 10px rgba(0,0,0,0.15);
+  -o-box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+  -ms-box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+  -moz-box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+  -webkit-box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+}
+
+#title {
+  margin: 0 auto;
+  position: relative;
+  width: 300px;
+}
+
+#banner {
+  background: #eee;
+  height: 200px;
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 90px;
+}
+
+#menu {
+  height: 50px;
+  left: 0;
+  position: absolute;
+  right: 0;
+  text-align: center;
+  top: 300px;
+}
+
+#menu a {
+  color: #555;
+  font: 22px/1.25em "proxima-nova", Helvetica, Arial, sans-serif;
+  margin: 15px;
+  text-decoration: none;
+}
+#menu a:hover {
+  color: #222;
+  text-decoration: underline;
+}
+
+#wrapper {
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 375px;
+}
+
+#content {
+  margin: 0 auto;
+  width: 800px;
+}
