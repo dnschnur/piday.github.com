@@ -2,6 +2,6 @@
 layout: default
 ---
 
-## FAQ ##
+## Frequently Asked Questions ##
 
-FAQ Page
+FAQ Page for all of your questions-answered needs.
