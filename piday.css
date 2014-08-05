@@ -39,9 +39,41 @@ iframe {
 }
 
 #title-box {
+  height: 100%;
   margin: 0 auto;
   position: relative;
-  width: 300px;
+  width: 800px;
+}
+
+.title-logo {
+  background-image: url(/images/logo.png);
+  background-size: contain;
+  border: 0;
+  height: 80px;
+  left: 200px;
+  position: absolute;
+  top: 10px;
+  width: 80px;
+}
+
+.title-names {
+  color: #111;
+  font: 48px/50px "penna-connected", Helvetica, Arial, sans-serif;
+  left: 0;
+  position: absolute;
+  right: 0;
+  text-align: center;
+  top: 23px;
+}
+
+.title-date {
+  color: #666;
+  font: 22px/30px "proxima-nova", Helvetica, Arial, sans-serif;
+  left: 0;
+  position: absolute;
+  right: 0;
+  text-align: center;
+  top: 64px;
 }
 
 #menu {
@@ -74,13 +106,13 @@ iframe {
   top: 350px;
 }
 #content:before {
-  content: "";
-  position: absolute;
-  top: -600px;
-  left: 0;
-  right: 0;
-  height: 600px;
   background-image: url("/images/banner.jpg");
+  content: "";
+  height: 600px;
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: -600px;
   transform: translateZ(-1px) scale(2);
   z-index: -1;
 }
