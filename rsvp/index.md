@@ -2,6 +2,6 @@
 layout: default
 ---
 
-## RSVP ##
+## R.S.V.P. ##
 
 RSVP Page
