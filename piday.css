@@ -16,17 +16,12 @@ body {
 
 h2 {
   font: 64px "tangerine", Helvetica, Arial, sans-serif;
-  margin: 0 0 10px 0;
+  margin: 10px 0;
 }
 
-iframe {
-  background: #fff;
-  border: 1px solid #ddd;
-  box-shadow: 0 3px 10px rgba(0,0,0,0.15);
-  -o-box-shadow: 0 3px 10px rgba(0,0,0,0.1);
-  -ms-box-shadow: 0 3px 10px rgba(0,0,0,0.1);
-  -moz-box-shadow: 0 3px 10px rgba(0,0,0,0.1);
-  -webkit-box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+h3 {
+  font: 48px "tangerine", Helvetica, Arial, sans-serif;
+  margin: 10px 0 10px;
 }
 
 #title {
@@ -100,7 +95,7 @@ iframe {
 #content {
   background: #fff;
   left: 0;
-  padding-top: 25px;
+  padding: 10px 0 25px 0;
   position: absolute;
   right: 0;
   top: 350px;
@@ -120,4 +115,27 @@ iframe {
 #content-box {
   margin: 0 auto;
   width: 800px;
+}
+
+.quick-link {
+  border: 1px solid #ddd;
+  box-shadow: 0 3px 10px rgba(0,0,0,0.15);
+  -o-box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+  -ms-box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+  -moz-box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+  -webkit-box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+  display: inline-block;
+  padding: 15px;
+}
+.quick-link:first-child {
+  margin-right: 10px;
+}
+.quick-link:last-child {
+  margin-left: 10px;
+}
+
+.quick-link .photo {
+  background: #eee;
+  height: 220px;
+  width: 220px;
 }
