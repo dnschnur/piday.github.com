@@ -1,5 +1,17 @@
+html {
+  height: 100%;
+  overflow: hidden;
+}
+
 body {
   font: 18px/1.25em "myriad-pro", Helvetica, Arial, sans-serif;
+  height: 100%;
+  margin: 0;
+  overflow-y: scroll;
+  overflow-x: hidden;
+  padding: 0;
+  perspective: 1px;
+  transform-style: preserve-3d;
 }
 
 h2 {
@@ -18,21 +30,22 @@ iframe {
 }
 
 #title {
+  background: #fff;
+  height: 100px;
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+#title-box {
   margin: 0 auto;
   position: relative;
   width: 300px;
 }
 
-#banner {
-  background: #eee;
-  height: 200px;
-  left: 0;
-  position: absolute;
-  right: 0;
-  top: 90px;
-}
-
 #menu {
+  background: #fff;
   height: 50px;
   left: 0;
   position: absolute;
@@ -43,7 +56,7 @@ iframe {
 
 #menu a {
   color: #555;
-  font: 22px/1.25em "proxima-nova", Helvetica, Arial, sans-serif;
+  font: 22px/50px "proxima-nova", Helvetica, Arial, sans-serif;
   margin: 15px;
   text-decoration: none;
 }
@@ -52,14 +65,27 @@ iframe {
   text-decoration: underline;
 }
 
-#wrapper {
+#content {
+  background: #fff;
   left: 0;
+  padding-top: 25px;
   position: absolute;
   right: 0;
-  top: 375px;
+  top: 350px;
+}
+#content:before {
+  content: "";
+  position: absolute;
+  top: -600px;
+  left: 0;
+  right: 0;
+  height: 600px;
+  background-image: url("/images/banner.jpg");
+  transform: translateZ(-1px) scale(2);
+  z-index: -1;
 }
 
-#content {
+#content-box {
   margin: 0 auto;
   width: 800px;
 }
