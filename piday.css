@@ -32,6 +32,17 @@ h3 {
   margin: 10px 0 10px;
 }
 
+a {
+  color: #555;
+  font: 22px "proxima-nova", Helvetica, Arial, sans-serif;
+  position: relative;
+  text-decoration: none;
+}
+a:hover {
+  color: #222;
+  text-decoration: underline;
+}
+
 #title {
   background: #fff;
   height: 120px;
@@ -83,27 +94,17 @@ h3 {
   background: #fff;
   height: 50px;
   left: 0;
+  overflow: visible;
   position: absolute;
   right: 0;
   text-align: center;
   top: 350px;
 }
 
-#menu a {
-  color: #555;
-  font: 22px/50px "proxima-nova", Helvetica, Arial, sans-serif;
-  margin: 15px;
-  text-decoration: none;
-}
-#menu a:hover {
-  color: #222;
-  text-decoration: underline;
-}
-
 #content {
   background: #fff;
   left: 0;
-  padding: 10px 0 25px 0;
+  padding: 10px 0 35px 0;
   position: absolute;
   right: 0;
   top: 400px;
@@ -131,6 +132,58 @@ h3 {
   width: 800px;
 }
 
+.menu-item {
+  display: inline-block;
+  margin: 0 10px;
+  padding: 0 5px;
+  position: relative;
+}
+
+.menu-item > a {
+  display: block;
+  line-height: 50px;
+}
+
+a + .menu-dropdown {
+  background: #fff;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  -o-box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+  -ms-box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+  -moz-box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+  -webkit-box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+  box-shadow: 0 3px 10px rgba(0,0,0,0.15);
+  display: none;
+  left: -3px;
+  padding: 5px 0;
+  position: absolute;
+  text-align: left;
+  top: 40px;
+  z-index: 20;
+}
+a:hover + .menu-dropdown {
+  display: block;
+}
+.menu-dropdown:hover {
+  display: block;
+}
+
+.menu-dropdown a {
+  display: block;
+  font-size: 20px;
+  line-height: 26px;
+  min-width: 175px;
+  padding: 5px 8px;
+}
+.menu-dropdown a:hover {
+  background: #f2f2f2;
+  text-decoration: none;
+}
+
+.quick-links {
+  margin-top: 25px;
+}
+
 .quick-link {
   border: 1px solid #ddd;
   -o-box-shadow: 0 3px 10px rgba(0,0,0,0.1);
@@ -139,17 +192,17 @@ h3 {
   -webkit-box-shadow: 0 3px 10px rgba(0,0,0,0.1);
   box-shadow: 0 3px 10px rgba(0,0,0,0.15);
   display: inline-block;
-  padding: 15px;
+  padding: 10px;
 }
 .quick-link:first-child {
-  margin-right: 10px;
+  margin-right: 20px;
 }
 .quick-link:last-child {
-  margin-left: 10px;
+  margin-left: 20px;
 }
 
 .quick-link .photo {
-  background: #eee;
+  background: #104476;
   height: 220px;
   width: 220px;
 }
