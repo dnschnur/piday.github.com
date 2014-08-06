@@ -10,7 +10,15 @@ body {
   overflow-y: scroll;
   overflow-x: hidden;
   padding: 0;
+  -o-perspective: 1px;
+  -ms-perspective: 1px;
+  -moz-perspective: 1px;
+  -webkit-perspective: 1px;
   perspective: 1px;
+  -o-transform-style: preserve-3d;
+  -ms-transform-style: preserve-3d;
+  -moz-transform-style: preserve-3d;
+  -webkit-transform-style: preserve-3d;
   transform-style: preserve-3d;
 }
 
@@ -108,6 +116,10 @@ h3 {
   position: absolute;
   right: 0;
   top: -600px;
+  -o-transform: translateZ(-1px) scale(2);
+  -ms-transform: translateZ(-1px) scale(2);
+  -moz-transform: translateZ(-1px) scale(2);
+  -webkit-transform: translateZ(-1px) scale(2);
   transform: translateZ(-1px) scale(2);
   z-index: -1;
 }
@@ -119,11 +131,11 @@ h3 {
 
 .quick-link {
   border: 1px solid #ddd;
-  box-shadow: 0 3px 10px rgba(0,0,0,0.15);
   -o-box-shadow: 0 3px 10px rgba(0,0,0,0.1);
   -ms-box-shadow: 0 3px 10px rgba(0,0,0,0.1);
   -moz-box-shadow: 0 3px 10px rgba(0,0,0,0.1);
   -webkit-box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+  box-shadow: 0 3px 10px rgba(0,0,0,0.15);
   display: inline-block;
   padding: 15px;
 }
