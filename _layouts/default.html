@@ -1,10 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <meta http-equiv="content-type" content="text/html; charset=utf-8"></meta>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no">
     <title>{{ page.title }}</title>
-    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon"></link>
-    <link rel="stylesheet" href="/piday.css" type="text/css"></link>
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="/piday.css" type="text/css">
     <script type="text/javascript" src="//use.typekit.net/wss8ffj.js"></script>
     <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 </head>
@@ -23,39 +24,39 @@
     </div>
   </div>
 
-  <div id="menu">
-    <div class="menu-item">
-      <a href="/">Welcome</a>
-    </div>
-    <div class="menu-item">
-      <a href="/events">Events</a>
-    </div>
-    <div class="menu-item">
-      <a href="/travel">Travel</a>
-    </div>
-    <div class="menu-item">
-      <a href="/about">About</a>
-      <div class="menu-dropdown">
-        <a href="/about">General Info</a>
-        <a href="/about/party.html">Wedding Party</a>
+  <div id="wrapper">
+    <div id="menu">
+      <div class="menu-item">
+        <a href="/">Welcome</a>
+      </div>
+      <div class="menu-item">
+        <a href="/events">Events</a>
+      </div>
+      <div class="menu-item">
+        <a href="/travel">Travel</a>
+      </div>
+      <div class="menu-item">
+        <a href="/about">About</a>
+        <div class="menu-dropdown">
+          <a href="/about">General Info</a>
+          <a href="/about/party.html">Wedding Party</a>
+        </div>
+      </div>
+      <div class="menu-item">
+       <a href="/photos">Photos</a>
+      </div>
+      <div class="menu-item">
+        <a href="/rsvp">RSVP</a>
+      </div>
+      <div class="menu-item">
+        <a href="/registry">Registry</a>
+      </div>
+      <div class="menu-item">
+        <a href="/faq">FAQ</a>
       </div>
     </div>
-    <div class="menu-item">
-     <a href="/photos">Photos</a>
-    </div>
-    <div class="menu-item">
-      <a href="/rsvp">RSVP</a>
-    </div>
-    <div class="menu-item">
-      <a href="/registry">Registry</a>
-    </div>
-    <div class="menu-item">
-      <a href="/faq">FAQ</a>
-    </div>
-  </div>
 
-  <div id="content" class="content">
-    <div id="content-box">
+    <div id="content">
       {{ content }}
     </div>
   </div>
