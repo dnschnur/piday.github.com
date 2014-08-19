@@ -4,7 +4,7 @@ html {
 }
 
 body {
-  font: 18px/1.25em "myriad-pro", Helvetica, Arial, sans-serif;
+  font: 1.15em/1.3em "myriad-pro", Helvetica, Arial, sans-serif;
   height: 100%;
   margin: 0;
   min-width: 400px;
@@ -24,18 +24,18 @@ body {
 }
 
 h2 {
-  font: 64px "tangerine", Helvetica, Arial, sans-serif;
+  font: 3.75em "tangerine", Helvetica, Arial, sans-serif;
   margin: 10px 0;
 }
 
 h3 {
-  font: 48px "tangerine", Helvetica, Arial, sans-serif;
+  font: 3em "tangerine", Helvetica, Arial, sans-serif;
   margin: 10px 0 10px;
 }
 
 a {
   color: #555;
-  font: 22px "proxima-nova", Helvetica, Arial, sans-serif;
+  font: 1.2em "proxima-nova", Helvetica, Arial, sans-serif;
   position: relative;
   text-decoration: none;
 }
@@ -74,22 +74,22 @@ a:hover {
 
 .title-names {
   color: #111;
-  font: 58px/64px "penna-connected", Helvetica, Arial, sans-serif;
+  font: 3.25em "penna-connected", Helvetica, Arial, sans-serif;
   left: 0;
   position: absolute;
   right: 0;
   text-align: center;
-  top: 22px;
+  top: 8px;
 }
 
 .title-date {
   color: #444;
-  font: 28px/30px "proxima-nova", Helvetica, Arial, sans-serif;
+  font: 1.5em "proxima-nova", Helvetica, Arial, sans-serif;
   left: 0;
   position: absolute;
   right: 0;
   text-align: center;
-  top: 78px;
+  top: 75px;
 }
 
 #wrapper {
@@ -157,7 +157,7 @@ a + .menu-dropdown {
   padding: 5px 0;
   position: absolute;
   text-align: left;
-  top: 40px;
+  top: 1.65em;
   z-index: 20;
 }
 a:hover + .menu-dropdown {
@@ -184,6 +184,7 @@ a:hover + .menu-dropdown {
 
 .quick-link {
   border: 1px solid #ddd;
+  border-radius: 3px;
   -o-box-shadow: 0 3px 10px rgba(0,0,0,0.1);
   -ms-box-shadow: 0 3px 10px rgba(0,0,0,0.1);
   -moz-box-shadow: 0 3px 10px rgba(0,0,0,0.1);
@@ -208,11 +209,11 @@ a:hover + .menu-dropdown {
 @media (max-width: 800px) {
 
   h2 {
-    font-size: 58px;
+    font-size: 3.25em;
   }
 
   h3 {
-    font-size: 42px;
+    font-size: 2.75em;
   }
 
   #wrapper {
@@ -228,26 +229,22 @@ a:hover + .menu-dropdown {
   }
 
   .menu-item > a {
-    font-size: 20px;
+    font-size: 1.1em;
   }
 }
 
 @media (max-width: 600px) {
 
   body {
-    font-size: 16px;
-  }
-
-  a {
-    font-size: 18px;
+    font-size: 1em;
   }
 
   h2 {
-    font-size: 48px;
+    font-size: 3em;
   }
 
   h3 {
-    font-size: 36px;
+    font-size: 2.5em;
   }
 
   #title {
@@ -270,20 +267,16 @@ a:hover + .menu-dropdown {
   }
 
   .title-names {
-    font-size: 48px;
+    font-size: 3em;
     top: 5px;
   }
 
   .title-date {
-    font-size: 22px;
+    font-size: 1.4em;
     top: 55px;
   }
 
   .menu-item {
     margin: 0 8px;
-  }
-
-  .menu-item > a {
-    font-size: 18px;
   }
 }
