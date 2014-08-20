@@ -44,6 +44,20 @@ a:hover {
   text-decoration: underline;
 }
 
+button {
+  background-color: #428bca;
+  border: 1px solid #357ebd;
+  border-radius: 4px;
+  color: #fff;
+  cursor: pointer;
+  font-size: 1.1em;
+  padding: 6px 8px;
+}
+button:hover {
+  background-color: #3071a9;
+  border-color: #285e8e;
+}
+
 #title {
   background: #fff;
   height: 120px;
