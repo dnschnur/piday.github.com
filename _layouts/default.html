@@ -12,7 +12,7 @@
       try{Typekit.load();}catch(e){}
       $(function() {
         if ('ontouchstart' in document.documentElement) {
-          $('.menu-item > a').click(function() {
+          $('.menu-item:has(.menu-dropdown) > a').click(function() {
             return false;
           });
         }
