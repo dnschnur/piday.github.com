@@ -7,7 +7,7 @@ body {
   font: 1.15em/1.3em "myriad-pro", Helvetica, Arial, sans-serif;
   height: 100%;
   margin: 0;
-  min-width: 400px;
+  min-width: 320px;
   overflow-y: scroll;
   overflow-x: hidden;
   padding: 0;
@@ -25,12 +25,7 @@ body {
 
 h2 {
   font: 3.75em "tangerine", Helvetica, Arial, sans-serif;
-  margin: 10px 0;
-}
-
-h3 {
-  font: 3em "tangerine", Helvetica, Arial, sans-serif;
-  margin: 10px 0 10px;
+  margin: 5px 0 -10px 0;
 }
 
 a {
@@ -222,14 +217,6 @@ a:hover + .menu-dropdown {
 
 @media (max-width: 800px) {
 
-  h2 {
-    font-size: 3.25em;
-  }
-
-  h3 {
-    font-size: 2.75em;
-  }
-
   #wrapper {
     top: 325px;
   }
@@ -241,24 +228,12 @@ a:hover + .menu-dropdown {
   .menu-item {
     margin: 0 9px;
   }
-
-  .menu-item > a {
-    font-size: 1.1em;
-  }
 }
 
 @media (max-width: 600px) {
 
   body {
     font-size: 1em;
-  }
-
-  h2 {
-    font-size: 3em;
-  }
-
-  h3 {
-    font-size: 2.5em;
   }
 
   #title {
@@ -292,5 +267,45 @@ a:hover + .menu-dropdown {
 
   .menu-item {
     margin: 0 8px;
+  }
+}
+
+@media (max-width: 400px) {
+
+  #title {
+    height: 72px;
+  }
+
+  #menu {
+    max-width: 310px;
+  }
+
+  #wrapper {
+    top: 200px;
+  }
+
+  .title-logo {
+    height: 48px;
+    margin-left: -150px;
+    top: 12px;
+    width: 48px;
+  }
+
+  .title-names {
+    font-size: 2.4em;
+    top: 3px;
+  }
+
+  .title-date {
+    font-size: 1.15em;
+    top: 45px;
+  }
+
+  .menu-item {
+    margin: 0 5px;
+  }
+
+  .menu-item > a {
+    font-size: 1em;
   }
 }
