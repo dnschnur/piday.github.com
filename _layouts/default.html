@@ -6,8 +6,18 @@
     <title>{{ page.title }}</title>
     <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
     <link rel="stylesheet" href="/piday.css" type="text/css">
-    <script type="text/javascript" src="//use.typekit.net/wss8ffj.js"></script>
-    <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+    <script src="//use.typekit.net/wss8ffj.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script>
+      try{Typekit.load();}catch(e){}
+      $(function() {
+        if ('ontouchstart' in document.documentElement) {
+          $('.menu-item > a').click(function() {
+            return false;
+          });
+        }
+      });
+    </script>
 </head>
 <!--[if IE 6]><body class="ie ie6"><![endif]-->
 <!--[if IE 7]><body class="ie ie7"><![endif]-->

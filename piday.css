@@ -268,9 +268,13 @@ a:hover + .menu-dropdown {
   .menu-item {
     margin: 0 8px;
   }
+
+  a + .menu-dropdown {
+    top: 1.5em;
+  }
 }
 
-@media (max-width: 400px) {
+@media (max-width: 480px) {
 
   #title {
     height: 72px;
