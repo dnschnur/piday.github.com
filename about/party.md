@@ -27,13 +27,13 @@ Biography: Susan “Needs a Nickname” Schnur is the bride’s soon-to-be siste
 
 
 
-Best Mab (yes, I typed Mab instead of Man… I’m a scientist!):
+Groomsman #1:
 
 (insert photo here)
 
-???? ???????
+Carl Johnson!
 
-Biography: Who will emerge victorious from the battle to be the best man? Will it be the future brother-in-law? Will it be the quintessential New England friend? Or will it be the cat? My money’s on the cat. Seriously. Star’s way cuter than all of the other contenders.
+Biography: Carl “CJ” Johnson is a long time friend of both the groom and bride. Scientist by trade, farmer/hunter/fisherman by reputation, Carl can do just about anything. Seriously. Ask him about our ice fishing escapades. He’ll bring valuable skills and experience to the party.
 
 
 
