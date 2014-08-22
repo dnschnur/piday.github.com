@@ -1,6 +1,6 @@
 html {
   height: 100%;
-  overflow: hidden;
+  overflow-x: hidden;
 }
 
 body {
@@ -21,6 +21,7 @@ body {
 h2 {
   font: 3.75em "tangerine", Helvetica, Arial, sans-serif;
   margin: 5px 0 -10px 0;
+  white-space: nowrap;
 }
 
 a {
@@ -292,6 +293,10 @@ a:hover + .menu-dropdown {
 }
 
 @media (max-width: 480px) {
+
+  h2 {
+    font-size: 2.5em;
+  }
 
   #title {
     height: 72px;
