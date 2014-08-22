@@ -175,9 +175,8 @@ button:hover {
   left: 25px;
   display: inline-block;
   border-right: 9px solid transparent;
-  border-bottom: 9px solid #CCC;
+  border-bottom: 9px solid #ccc;
   border-left: 9px solid transparent;
-  border-bottom-color: rgba(0, 0, 0, 0.2);
   content: '';
 }
 .menu-dropdown::after {
@@ -186,7 +185,7 @@ button:hover {
   left: 26px;
   display: inline-block;
   border-right: 8px solid transparent;
-  border-bottom: 8px solid white;
+  border-bottom: 8px solid #fff;
   border-left: 8px solid transparent;
   content: '';
 }
