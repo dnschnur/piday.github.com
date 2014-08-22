@@ -254,8 +254,8 @@ input[type=text] {
 }
 
 input[type=submit] {
-  background-color: #3071a9;
-  border: 1px solid #285e8e;
+  background-color: #2071c1;
+  border: 1px solid #1061b1;
   border-radius: 3px;
   -o-box-shadow: inset 0 2px 4px rgba(0,0,0,0.1);
   -moz-box-shadow: inset 0 2px 4px rgba(0,0,0,0.1);
@@ -267,8 +267,8 @@ input[type=submit] {
   padding: 6px 8px;
 }
 input[type=submit]:hover {
-  background-color: #428bca;
-  border-color: #357ebd;
+  background-color: #0051a1;
+  border-color: #004191;
 }
 
 .form-line {
