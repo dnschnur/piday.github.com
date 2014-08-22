@@ -136,7 +136,7 @@ button:hover {
 #content {
   margin: 0 auto;
   max-width: 800px;
-  padding: 10px 15px 35px 15px;
+  padding: 10px 15px 25px 15px;
 }
 
 .menu-item {
@@ -205,31 +205,27 @@ a:hover + .menu-dropdown {
   text-decoration: none;
 }
 
-.quick-links {
-  margin-top: 25px;
+.quick-link {
+  display: inline-block;
+  margin-top: 15px;
+  width: 50%;
 }
 
-.quick-link {
+.quick-link a {
   border: 1px solid #ddd;
   border-radius: 3px;
   -o-box-shadow: 0 3px 10px rgba(0,0,0,0.1);
   -moz-box-shadow: 0 3px 10px rgba(0,0,0,0.1);
   -webkit-box-shadow: 0 3px 10px rgba(0,0,0,0.1);
   box-shadow: 0 3px 10px rgba(0,0,0,0.15);
-  display: inline-block;
+  display: block;
   padding: 10px;
-}
-.quick-link:first-child {
-  margin-right: 20px;
-}
-.quick-link:last-child {
-  margin-left: 20px;
 }
 
 .quick-link .photo {
   background: #104476;
-  height: 220px;
-  width: 220px;
+  height: 200px;
+  width: 100%;
 }
 
 @media (max-width: 800px) {
@@ -289,6 +285,16 @@ a:hover + .menu-dropdown {
 
   .menu-dropdown {
     top: 1.5em;
+  }
+
+  .quick-link {
+    width: 100%;
+  }
+  .quick-link:first-child {
+    padding-right: 0;
+  }
+  .quick-link:last-child {
+    padding-left: 0;
   }
 }
 

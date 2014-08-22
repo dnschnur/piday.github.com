@@ -14,21 +14,13 @@ In the meantime, browse around the site for all of the most up-to-date informati
   <div class="quick-link">
     <a href="/events">
       <img class="photo">
-    </a>
     <div>Events</div>
+    </a>
   </div>
-
   <div class="quick-link">
     <a href="/travel">
       <img class="photo">
-    </a>
     <div>Travel</div>
-  </div>
-
-  <div class="quick-link">
-    <a href="/about">
-      <img class="photo">
     </a>
-    <div>About</div>
   </div>
 </div>
