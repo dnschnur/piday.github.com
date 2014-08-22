@@ -13,13 +13,13 @@ In the meantime, browse around the site for all of the most up-to-date informati
 <div class="quick-links">
   <div class="quick-link">
     <a href="/events">
-      <img class="photo">
+      <img src="/images/banner-capybara.jpg" class="photo">
     <div>Events</div>
     </a>
   </div>
   <div class="quick-link">
     <a href="/travel">
-      <img class="photo">
+      <img src="/images/banner-capybara.jpg" class="photo">
     <div>Travel</div>
     </a>
   </div>

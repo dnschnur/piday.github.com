@@ -205,9 +205,14 @@ a:hover + .menu-dropdown {
   text-decoration: none;
 }
 
+.quick-links {
+  white-space: nowrap;
+}
+
 .quick-link {
   display: inline-block;
   margin-top: 15px;
+  white-space: normal;
   width: 50%;
 }
 
@@ -221,10 +226,15 @@ a:hover + .menu-dropdown {
   display: block;
   padding: 10px;
 }
+.quick-link:first-child a {
+  margin-right: 10px;
+}
+.quick-link:last-child a {
+  margin-left: 10px;
+}
 
 .quick-link .photo {
   background: #104476;
-  height: 200px;
   width: 100%;
 }
 
@@ -291,14 +301,18 @@ a:hover + .menu-dropdown {
     top: 1.5em;
   }
 
+  .quick-links {
+    white-space: normal;
+  }
+
   .quick-link {
     width: 100%;
   }
-  .quick-link:first-child {
-    padding-right: 0;
+  .quick-link:first-child a {
+    margin-right: 0;
   }
-  .quick-link:last-child {
-    padding-left: 0;
+  .quick-link:last-child a {
+    margin-left: 0;
   }
 }
 
