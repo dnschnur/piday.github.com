@@ -245,8 +245,8 @@ a:hover + .menu-dropdown {
 
 @media (max-width: 600px) {
 
-  body {
-    font-size: 1em;
+  h2 {
+    font-size: 3.25em;
   }
 
   #title {
