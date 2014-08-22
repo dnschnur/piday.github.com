@@ -8,19 +8,14 @@ body {
   height: 100%;
   margin: 0;
   min-width: 320px;
-  overflow-y: scroll;
   overflow-x: hidden;
+  overflow-y: auto;
   padding: 0;
+  position: relative;
   -o-perspective: 1px;
-  -ms-perspective: 1px;
   -moz-perspective: 1px;
   -webkit-perspective: 1px;
   perspective: 1px;
-  -o-transform-style: preserve-3d;
-  -ms-transform-style: preserve-3d;
-  -moz-transform-style: preserve-3d;
-  -webkit-transform-style: preserve-3d;
-  transform-style: preserve-3d;
 }
 
 h2 {
@@ -101,29 +96,32 @@ button:hover {
   top: 75px;
 }
 
-#wrapper {
-  background: #fff;
+#banner {
+  background-image: url(/images/banner-capybara.jpg);
+  background-position: center;
+  -o-background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  background-size: cover;
+  height: 360px;
   left: 0;
   position: absolute;
   right: 0;
-  top: 350px;
-}
-#wrapper:before {
-  background-image: url("/images/banner.jpg");
-  background-size: cover;
-  background-repeat: no-repeat;
-  content: "";
-  height: 350px;
-  left: 0px;
-  position: absolute;
-  right: 0;
-  top: -475px;
+  top: -120px;
   -o-transform: translateZ(-1px) scale(2);
   -ms-transform: translateZ(-1px) scale(2);
   -moz-transform: translateZ(-1px) scale(2);
   -webkit-transform: translateZ(-1px) scale(2);
   transform: translateZ(-1px) scale(2);
   z-index: -1;
+}
+
+#wrapper {
+  background: #fff;
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 360px;
 }
 
 #menu {
@@ -157,7 +155,6 @@ button:hover {
   border: 1px solid #ccc;
   border-radius: 3px;
   -o-box-shadow: 0 3px 10px rgba(0,0,0,0.15);
-  -ms-box-shadow: 0 3px 10px rgba(0,0,0,0.15);
   -moz-box-shadow: 0 3px 10px rgba(0,0,0,0.15);
   -webkit-box-shadow: 0 3px 10px rgba(0,0,0,0.15);
   box-shadow: 0 3px 10px rgba(0,0,0,0.15);
@@ -215,7 +212,6 @@ a:hover + .menu-dropdown {
   border: 1px solid #ddd;
   border-radius: 3px;
   -o-box-shadow: 0 3px 10px rgba(0,0,0,0.1);
-  -ms-box-shadow: 0 3px 10px rgba(0,0,0,0.1);
   -moz-box-shadow: 0 3px 10px rgba(0,0,0,0.1);
   -webkit-box-shadow: 0 3px 10px rgba(0,0,0,0.1);
   box-shadow: 0 3px 10px rgba(0,0,0,0.15);
@@ -237,10 +233,6 @@ a:hover + .menu-dropdown {
 
 @media (max-width: 800px) {
 
-  #wrapper {
-    top: 325px;
-  }
-
   #menu {
     max-width: 500px;
   }
@@ -260,12 +252,17 @@ a:hover + .menu-dropdown {
     height: 88px;
   }
 
+  #banner {
+    height: 268px;
+    top: -130px;
+  }
+
   #menu {
     max-width: 450px;
   }
 
   #wrapper {
-    top: 275px;
+    top: 268px;
   }
 
   .title-logo {
@@ -300,19 +297,24 @@ a:hover + .menu-dropdown {
     height: 72px;
   }
 
+  #banner {
+    height: 216px;
+    top: -72px;
+  }
+
   #menu {
     max-width: 310px;
   }
 
   #wrapper {
-    top: 200px;
+    top: 216px;
   }
 
   .title-logo {
-    height: 48px;
-    margin-left: -150px;
-    top: 12px;
-    width: 48px;
+    height: 44px;
+    margin-left: -148px;
+    top: 13px;
+    width: 44px;
   }
 
   .title-names {
