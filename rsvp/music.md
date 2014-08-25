@@ -25,5 +25,6 @@ Have a song that you'd like to hear at the reception? Submit as many requests as
     <input type="text" name="entry.1585227257" id="entry_1585227257" aria-label="Your Name">
   </div>
 </div>
-<input type="submit" name="submit" value="Request">
+<input type="submit" name="submit" value="Request" disabled>
+<span class="confirmation">Thank you!</span>
 </form>
