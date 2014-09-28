@@ -23,7 +23,7 @@ Bridesmaid Extraordinaire:
 Susan Schnur!
 
 
-Biography: Susan “Needs a Nickname” Schnur is the bride’s soon-to-be sister-in-law. Tamer of the wild Starfish the Cat, fellow mass spectrometer-er, and crafty knitter, Susan brings experience handling the groom to the table. And we all know how important groom-wrangling can be.
+Biography: Susan "The Rock" Schnur is the bride’s soon-to-be sister-in-law. Tamer of the wild Starfish the Cat, fellow mass spectrometer-er, and crafty knitter, Susan brings experience handling the groom to the table. And we all know how important groom-wrangling can be.
 
 
 
@@ -43,4 +43,4 @@ Gallant Groomsman:
 
 ??? ??????
 
-Biography: The groom has some decisions to make. It’s almost as hard as picking your vice president (Bartlett for America).
+Biography: The groom has some decisions to make. 
