@@ -206,15 +206,7 @@ a:hover + .menu-dropdown {
 }
 
 .quick-link a {
-  border: 1px solid #ddd;
-  border-radius: 3px;
-  -o-box-shadow: 0 3px 10px rgba(0,0,0,0.15);
-  -moz-box-shadow: 0 3px 10px rgba(0,0,0,0.15);
-  -webkit-box-shadow: 0 3px 10px rgba(0,0,0,0.15);
-  box-shadow: 0 3px 10px rgba(0,0,0,0.15);
   display: block;
-  font-size: 1em;
-  padding: 10px;
   text-decoration: none;
 }
 .quick-link:first-child a {
@@ -224,8 +216,19 @@ a:hover + .menu-dropdown {
   margin-left: 10px;
 }
 
-.quick-link .photo {
-  background: #104476;
+/* Photo styles */
+
+.photo {
+  border: 1px solid #ddd;
+  border-radius: 3px;
+  -o-box-shadow: 0 3px 10px rgba(0,0,0,0.15);
+  -moz-box-shadow: 0 3px 10px rgba(0,0,0,0.15);
+  -webkit-box-shadow: 0 3px 10px rgba(0,0,0,0.15);
+  box-shadow: 0 3px 10px rgba(0,0,0,0.15);
+  padding: 10px;
+}
+
+.photo img {
   width: 100%;
 }
 
