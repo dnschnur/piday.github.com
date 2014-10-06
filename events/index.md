@@ -26,7 +26,9 @@ The reception will be held from 4:00 - 9:00 PM on Saturday, March 14, 2015 at th
 
 The venue is only a 3 minute drive from Rollins Chapel. You are free to drive your own car to the venue (see Directions) as there will be ample parking at the Hanover Country Club across the road.
 
-'insert photo of DOC house and map with parking and directions'
+<div class="photo">
+  <img src="/images/places/doc-house.jpg">
+</div>
 
 ### Brunch ###
 
