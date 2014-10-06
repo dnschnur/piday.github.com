@@ -281,6 +281,7 @@ input[type=submit]:disabled {
   background-color: #ddd;
   border-color: #aaa;
   color: #f8f8f8;
+  cursor: default;
 }
 
 .form-line {
