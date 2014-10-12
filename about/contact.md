@@ -6,4 +6,4 @@ layout: default
 
 Questions? Comments?
 
-Insert email addresses here.
+Insert Google Form here.
