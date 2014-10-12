@@ -50,10 +50,10 @@ Biography: Carl “CJ” Johnson is a long time friend of both the groom and bri
 
 
 
-Gallant Groomsman:
+Groomsman #2:
 
 (insert photo here)
 
-??? ??????
+???? ??????
 
-Biography: The groom has some decisions to make. 
+Biography: Who is it going to be?
