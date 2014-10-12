@@ -24,6 +24,10 @@ h2 {
   white-space: nowrap;
 }
 
+h3 {
+  clear: both;
+}
+
 a {
   color: #555;
 }
@@ -216,7 +220,7 @@ a:hover + .menu-dropdown {
   margin-left: 10px;
 }
 
-/* Photo styles */
+/* Photo and map styles */
 
 .photo {
   border: 1px solid #ddd;
@@ -231,6 +235,12 @@ a:hover + .menu-dropdown {
 
 .photo img {
   width: 100%;
+}
+
+.photo-right {
+  float: right;
+  margin: 0 20px 10px 20px;
+  width: 40%;
 }
 
 .map {
@@ -322,6 +332,10 @@ input[type=submit]:disabled {
   .menu-item {
     margin: 0 9px;
   }
+
+  .map {
+    height: 400px;
+  }
 }
 
 @media (max-width: 600px) {
@@ -389,6 +403,10 @@ input[type=submit]:disabled {
   .quick-link:last-child a {
     margin-left: 0;
   }
+
+  .map {
+    height: 300px;
+  }
 }
 
 @media (max-width: 480px) {
@@ -450,5 +468,15 @@ input[type=submit]:disabled {
   .menu-item:nth-child(4) .menu-dropdown::after {
     left: auto;
     right: 19px;
+  }
+
+  .photo-right {
+    float: inherit;
+    margin: 0;
+    width: auto;
+  }
+
+  .map {
+    height: 275px;
   }
 }
