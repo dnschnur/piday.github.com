@@ -43,3 +43,13 @@ For menu and pricing information, see the [restaurant website](http://www.jesses
 <div class="photo">
   <iframe class="map" src="https://www.google.com/maps/d/embed?mid=zFR_mzWpa23c.kN-U4lPOJLcA"></iframe>
 </div>
+
+From Rollins Chapel, head north on College St away from the Green
+
+Turn left onto Maynard St
+
+Turn right onto Rope Ferry Rd
+
+Turn left onto Hilton Field Rd
+
+The DOC House will be on the left and parking will be on the right
