@@ -233,6 +233,12 @@ a:hover + .menu-dropdown {
   width: 100%;
 }
 
+.map {
+  border: 0;
+  height: 480px;
+  width: 100%;
+}
+
 /* Form styles (RSVP, Request a Song, etc.) */
 
 label {
