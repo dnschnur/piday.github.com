@@ -44,3 +44,5 @@ FAQ Page for all of your questions-answered needs. Got a burning question thatâ€
 - Who is your videographer? - Adam Eldridge. Adam is a very close friend of the bride's family.
 
 - Who made this delicious cake? - Well that depends; is it our wedding cake? If not, someone thinks youâ€™re special enough to bake a cake for. Lucky you! Hey, we like cake. Can we swing by and share with you?
+
+- I have a question not answered here; how can I contact you? - We have a [contact form](/about/contact.html) where you can reach us directly.
