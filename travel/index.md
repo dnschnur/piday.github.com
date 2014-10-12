@@ -18,6 +18,10 @@ Please check back here soon, as we will be updating this page with information o
 
 The Upper Valley has a wide variety of delicious dining options. The map below highlights some of our favorites. If you have a dietary restriction or are craving something specific, feel free to [contact us](/about/contact.html) for a personalized recommendation.
 
+<div class="photo">
+  <img src="/images/places/market-table.jpg">
+</div>
+
 'insert restaurant map'
 
 
