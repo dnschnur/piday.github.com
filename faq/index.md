@@ -23,7 +23,7 @@ FAQ Page for all of your questions-answered needs. Got a burning question thatâ€
 
 - Are there any colors that guests should avoid wearing? - Absolutely not.
 
-- Can I bring a date? - Certainly. Please make sure that the [RSVP form](/rsvp.html) has been filled out for them so that we can maintain an accurate head count.
+- Can I bring a date? - Certainly. Please make sure that the [RSVP form](/rsvp) has been filled out for them so that we can maintain an accurate head count.
 
 - I am coming from out of town. Where should I stay? - First of all, thank you for traveling to our wedding. You can find out more information about lodging [here](/travel/lodging.html).
 
@@ -37,7 +37,7 @@ FAQ Page for all of your questions-answered needs. Got a burning question thatâ€
 
 - What if I have a dietary restriction? - We will make every effort to accomodate your dietary restrictions. Please make a note of your particular situation on the [RSVP form](/rsvp).
 
-- Is there a gifts registry? - Your attendance is more than gift enough, but if you feel the desire, you can find our registry info [here](/registry.html).
+- Is there a gifts registry? - Your attendance is more than gift enough, but if you feel the desire, you can find our registry info [here](/registry).
 
 - Who is your photographer? - [Rob Strong](www.robstrong.com). Rob is an old college friend of the groom's.
 
