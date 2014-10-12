@@ -463,6 +463,10 @@ input[type=submit]:disabled {
     font-size: 1em;
   }
 
+  .menu-disabled {
+    font-size: 1em;
+  }
+
   .menu-item:nth-child(4) .menu-dropdown {
     left: auto;
     right: 0;
