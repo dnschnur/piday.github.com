@@ -4,7 +4,7 @@ layout: default
 
 ## Frequently Asked Questions ##
 
-FAQ Page for all of your questions-answered needs. Got a burning question that’s not answered below? [Contact us!](http://schnurfamily.github.io/about/contact.html)
+FAQ Page for all of your questions-answered needs. Got a burning question that’s not answered below? [Contact us](/about/contact.html)!
 
 
 - What is Pi Day? - http://en.wikipedia.org/wiki/Pi_Day

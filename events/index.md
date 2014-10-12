@@ -6,7 +6,7 @@ layout: default
 
 Whether you live locally or, like us, are coming in from far away, we are thrilled to be celebrating our wedding with you.
 
-We hope that you will enjoy your time in the Upper Valley and that you have a chance to explore some of the area that we called home for a decade.
+We hope that you will enjoy your time in the Upper Valley and that you have a chance to explore some of the area that we called home for a decade. If you have any questions, please [contact us](/about/contact.html).
 
 'insert photo here'
 
