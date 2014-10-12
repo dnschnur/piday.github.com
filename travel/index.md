@@ -11,8 +11,7 @@ Are you coming to the Upper Valley from far away? Please check back here soon, a
 
 Please check back here soon, as we will be updating this page with information on local hotels.
 
-'insert map for hotels'
-
+<iframe class="map" src="https://www.google.com/maps/d/embed?mid=zFR_mzWpa23c.kBgRWeXc27lg"></iframe>
 
 ### Dining ###
 
