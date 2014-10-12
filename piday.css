@@ -12,11 +12,11 @@ body {
   overflow-y: auto;
   padding: 0;
   position: relative;
-  -o-perspective: 1px;
+/*  -o-perspective: 1px;
   -moz-perspective: 1px;
   -webkit-perspective: 1px;
   perspective: 1px;
-}
+*/}
 
 h2 {
   font: 3.75em "tangerine", Helvetica, Arial, sans-serif;
@@ -226,6 +226,7 @@ a:hover + .menu-dropdown {
   -webkit-box-shadow: 0 3px 10px rgba(0,0,0,0.15);
   box-shadow: 0 3px 10px rgba(0,0,0,0.15);
   padding: 10px;
+  position: relative;
 }
 
 .photo img {
