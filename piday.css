@@ -249,6 +249,11 @@ a:hover + .menu-dropdown {
   width: 40%;
 }
 
+.photo .caption {
+  font-size: 0.8em;
+  font-style: italic;
+}
+
 .map {
   border: 0;
   height: 480px;
