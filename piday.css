@@ -81,6 +81,9 @@ a:hover {
 
 #banner {
   background-image: url(/images/banner-heart.jpg);
+  -o-background-position: center;
+  -moz-background-position: center;
+  -webkit-background-position: center;
   background-position: center;
   -o-background-size: cover;
   -moz-background-size: cover;
