@@ -9,20 +9,28 @@ Are you coming to the Upper Valley from far away? Please check back here soon, a
 
 ### Lodging ###
 
+<div class="photo photo-right">
+  <img src="/images/places/hanover-inn.jpg">
+</div>
+
 Please check back here soon, as we will be updating this page with information on local hotels.
 
 <iframe class="map" src="https://www.google.com/maps/d/embed?mid=zFR_mzWpa23c.kBgRWeXc27lg"></iframe>
+
 
 ### Dining ###
 
 The Upper Valley has a wide variety of delicious dining options. The map below highlights some of our favorites. If you have a dietary restriction or are craving something specific, feel free to [contact us](/about/contact.html) for a personalized recommendation.
 
-<div class="photo">
+<div class="photo photo-right">
   <img src="/images/places/market-table.jpg">
 </div>
 
-'insert restaurant map'
+<div class="photo photo-right">
+  <img src="/images/places/mollys.jpg">
+</div>
 
+'insert restaurant map'
 
 
 ### Explore the Upper Valley ###

@@ -10,7 +10,12 @@ We hope that you will enjoy your time in the Upper Valley and that you have a ch
 
 'insert photo here'
 
+
 ### Ceremony ###
+
+<div class="photo photo-right">
+  <img src="/images/places/rollins.jpg">
+</div>
 
 The ceremony will be held at 2:26 PM on Saturday, March 14, 2015 at Rollins Chapel in Hanover, NH. 
 
@@ -18,7 +23,6 @@ Please join us immediately after the ceremony in front of the chapel for a speci
 
 Following the ceremony, formal photos will be taken at the chapel for approximately 1 hour.
 
-'insert photo of Rollins and map with parking and directions'
 
 ### Reception ###
 
@@ -30,6 +34,7 @@ The reception will be held from 4:00 - 9:00 PM on Saturday, March 14, 2015 at th
 
 The venue is only a 3 minute drive from Rollins Chapel. You are free to drive your own car to the venue (see Directions) as there will be ample parking at the Hanover Country Club across the road.
 
+
 ### Brunch ###
 
 If you’re still in the area on Sunday, March 15, 2015 at 10:30 AM, feel free to join us for a brunch buffet at Jesse’s in Hanover, NH.
@@ -37,6 +42,7 @@ If you’re still in the area on Sunday, March 15, 2015 at 10:30 AM, feel free t
 For menu and pricing information, see the [restaurant website](http://www.jesses.com/jesses-menu/#brunch).
 
 'insert map with directions to Jesse's'
+
 
 ### Directions ###
 
