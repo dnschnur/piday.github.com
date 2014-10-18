@@ -17,7 +17,7 @@ $(function() {
   // Primitive form validation; inform immediately on missing a required field
   required.blur(function() {
     var input = $(this);
-    input.toggleClass('missing', !input.val());
+    input.toggleClass('invalid', !input.val());
   });
 
   // Keep the submit button disabled until everything is valid

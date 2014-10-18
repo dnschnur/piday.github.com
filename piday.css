@@ -274,7 +274,7 @@ input {
   display: inline-block;
 }
 
-input[type=text] {
+input[type=text], input[type=email], textarea {
   border: 1px solid #ccc;
   border-radius: 3px;
   -o-box-shadow: inset 0 1px 3px rgba(0,0,0,0.1);
@@ -284,14 +284,22 @@ input[type=text] {
   color: #000;
   font-size: 1.1em;
   padding: 4px 6px;
-  width: 250px;
 }
-input[type=text]:disabled {
+input[type=text]:disabled, input[type=email]:disabled, textarea:disabled {
   color: #ccc;
 }
-input[type=text].missing {
+input:invalid, input.invalid, textarea.invalid {
   background: #fee;
   border-color: #f66;
+}
+
+input[type=text], input[type=email] {
+  width: 250px;
+}
+
+textarea {
+  height: 200px;
+  width: 500px;
 }
 
 input[type=submit] {
@@ -316,20 +324,6 @@ input[type=submit]:disabled {
   border-color: #aaa;
   color: #f8f8f8;
   cursor: default;
-}
-
-textarea {
-  border: 1px solid #ccc;
-  border-radius: 3px;
-  -o-box-shadow: inset 0 1px 3px rgba(0,0,0,0.1);
-  -moz-box-shadow: inset 0 1px 3px rgba(0,0,0,0.1);
-  -webkit-box-shadow: inset 0 1px 3px rgba(0,0,0,0.1);
-  box-shadow: inset 0 1px 3px rgba(0,0,0,0.1);
-  color: #000;
-  font-size: 1.1em;
-  height: 200px;
-  padding: 4px 6px;
-  width: 500px;
 }
 
 .form-line {
