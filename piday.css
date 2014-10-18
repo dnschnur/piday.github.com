@@ -317,6 +317,11 @@ input[type=submit]:disabled {
   cursor: default;
 }
 
+textarea {
+  height: 200px;
+  width: 400px;
+}
+
 .form-line {
   display: block;
   margin-bottom: 15px;
