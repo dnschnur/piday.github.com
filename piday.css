@@ -246,6 +246,17 @@ a:hover + .menu-dropdown {
 }
 
 .map {
+  border: 1px solid #ddd;
+  border-radius: 3px;
+  -o-box-shadow: 0 3px 10px rgba(0,0,0,0.15);
+  -moz-box-shadow: 0 3px 10px rgba(0,0,0,0.15);
+  -webkit-box-shadow: 0 3px 10px rgba(0,0,0,0.15);
+  box-shadow: 0 3px 10px rgba(0,0,0,0.15);
+  padding: 10px;
+  position: relative;
+}
+
+.map iframe {
   border: 0;
   height: 480px;
   width: 100%;

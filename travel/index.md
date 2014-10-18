@@ -15,8 +15,9 @@ Are you coming to the Upper Valley from far away? Please check back here soon, a
 
 Please check back here soon, as we will be updating this page with information on local hotels.
 
-<iframe class="map" src="https://www.google.com/maps/d/embed?mid=zFR_mzWpa23c.kBgRWeXc27lg"></iframe>
-
+<div class="map">
+  <iframe src="https://www.google.com/maps/d/embed?mid=zFR_mzWpa23c.kBgRWeXc27lg"></iframe>
+</div>
 
 ### Dining ###
 
@@ -30,8 +31,9 @@ The Upper Valley has a wide variety of delicious dining options. The map below h
   <img src="/images/places/mollys.jpg">
 </div>
 
-'insert restaurant map'
-
+<div class="map">
+  <iframe src="https://mapsengine.google.com/map/embed?mid=zFR_mzWpa23c.kisGsnW_BqGM"></iframe>
+</div>
 
 ### Explore the Upper Valley ###
 

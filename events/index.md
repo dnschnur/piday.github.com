@@ -41,14 +41,14 @@ If you’re still in the area on Sunday, March 15, 2015 at 10:30 AM, feel free t
 
 For menu and pricing information, see the [restaurant website](http://www.jesses.com/jesses-menu/#brunch).
 
-<div class="photo">
-  <iframe class="map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d92334.61997985533!2d-72.27527210058689!3d43.68026432435821!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cb4b60fad2cda27%3A0x5782830adaa5b1f8!2sJesse&#39;s+Restaurant+%26+Tavern!5e0!3m2!1sen!2sus!4v1413672098312"></iframe>
+<div class="map">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d92334.61997985533!2d-72.27527210058689!3d43.68026432435821!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cb4b60fad2cda27%3A0x5782830adaa5b1f8!2sJesse&#39;s+Restaurant+%26+Tavern!5e0!3m2!1sen!2sus!4v1413672098312"></iframe>
 </div>
 
 ### Directions ###
 
-<div class="photo">
-  <iframe class="map" src="https://www.google.com/maps/d/embed?mid=zFR_mzWpa23c.kN-U4lPOJLcA"></iframe>
+<div class="map">
+  <iframe src="https://www.google.com/maps/d/embed?mid=zFR_mzWpa23c.kN-U4lPOJLcA"></iframe>
 </div>
 
 From Rollins Chapel, head north on College St away from the Green
