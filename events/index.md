@@ -11,7 +11,7 @@ We hope that you will enjoy your time in the Upper Valley and that you have a ch
 
 ### Ceremony ###
 
-<div class="photo">
+<div class="photo lightboxable">
   <img src="/images/places/rollins.jpg">
   <a href="https://goo.gl/maps/ieuIy" class="map-link" title="Click here for directions">
     <img src="/images/places/rollins-map.jpg">
@@ -27,7 +27,7 @@ Following the ceremony, formal photos will be taken at the chapel for approximat
 
 ### Reception ###
 
-<div class="photo">
+<div class="photo lightboxable">
   <img src="/images/places/doc-house.jpg">
   <a href="https://goo.gl/maps/z4kja" class="map-link" title="Click here for directions">
     <img src="/images/places/doc-house-map.jpg">

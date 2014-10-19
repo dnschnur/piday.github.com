@@ -9,7 +9,7 @@ Everything you’ve ever wanted to know about the bride, groom, and wedding part
 
 ### Our Story ###
 
-<div class="photo matterhorn-photo">
+<div class="photo matterhorn-photo lightboxable">
   <img src="/images/places/matterhorn.jpg">
 </div>
 

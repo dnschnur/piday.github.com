@@ -9,7 +9,7 @@ Are you coming to the Upper Valley from far away? We've assembled all of the inf
 
 ### Lodging ###
 
-<div class="photo photo-right">
+<div class="photo lightboxable">
   <img src="/images/places/hanover-inn.jpg">
 </div>
 
@@ -23,12 +23,12 @@ Need a place to rest? Click on the map for descriptions and links to the best lo
 
 <div class="double-photos">
   <div class="double-photo">
-    <div class="photo">
+    <div class="photo lightboxable">
       <img src="/images/places/market-table.jpg">
     </div>
   </div>
   <div class="double-photo">
-    <div class="photo">
+    <div class="photo lightboxable">
       <img src="/images/places/mollys.jpg">
     </div>
   </div>
