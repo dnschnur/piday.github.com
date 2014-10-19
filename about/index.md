@@ -18,6 +18,30 @@ We haven't written our story yet; please check back soon!
 
 ### Wedding Party ###
 
+<div class="photo profile-photo profile-photo-felicia">
+  <img src="/images/people/shadow.jpg">
+  <div class="title">The Bride</div>
+</div>
+
+<div class="profile-info">Name: Felicia Reid</div>
+<div class="profile-info">Code Name: </div>
+
+Felicia
+
+----------------------------------------------------------------------
+
+<div class="photo profile-photo profile-photo-david">
+  <img src="/images/people/shadow.jpg">
+  <div class="title">The Groom</div>
+</div>
+
+<div class="profile-info">Name: David Schnur</div>
+<div class="profile-info">Code Name: </div>
+
+David
+
+----------------------------------------------------------------------
+
 <div class="photo profile-photo profile-photo-kristen">
   <img src="/images/people/kristen.jpg">
   <div class="title">Matron of Honor</div>
