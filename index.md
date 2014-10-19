@@ -14,14 +14,14 @@ Please check back soon, as we will continually update this site with information
 
 In the meantime, browse around the site for all of the most up-to-date information and please [contact us](/about/contact.html) if you have any questions.
 
-<div class="quick-links">
-  <div class="quick-link">
+<div class="double-photos">
+  <div class="double-photo">
     <a href="/events" class="photo">
       <img src="/images/places/rollins.jpg">
       <div class="caption">Wedding weekend events</div>
     </a>
   </div>
-  <div class="quick-link">
+  <div class="double-photo">
     <a href="/travel" class="photo">
       <img src="/images/places/market-table.jpg">
       <div class="caption">Hotels, restaurants, and places to see</div>

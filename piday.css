@@ -210,28 +210,6 @@ a:hover + .menu-dropdown {
   background: #f2f2f2;
 }
 
-.quick-links {
-  white-space: nowrap;
-}
-
-.quick-link {
-  display: inline-block;
-  margin-top: 15px;
-  white-space: normal;
-  width: 50%;
-}
-
-.quick-link a {
-  display: block;
-  text-decoration: none;
-}
-.quick-link:first-child a {
-  margin-right: 10px;
-}
-.quick-link:last-child a {
-  margin-left: 10px;
-}
-
 /* Form styles (RSVP, Request a Song, etc.) */
 
 label {
@@ -365,6 +343,28 @@ input[type=submit]:disabled {
   transform: rotate(-2deg);
 }
 
+.double-photos {
+  margin-top: 15px;
+  white-space: nowrap;
+}
+
+.double-photo {
+  display: inline-block;
+  white-space: normal;
+  width: 50%;
+}
+
+.double-photo a {
+  display: block;
+  text-decoration: none;
+}
+.double-photo:first-child a {
+  margin-right: 10px;
+}
+.double-photo:last-child a {
+  margin-left: 10px;
+}
+
 .map-link img {
   height: 100px;
   width: 100px;
@@ -404,6 +404,10 @@ input[type=submit]:disabled {
   margin: 0 50px 50px 0;
   width: 50%;
 }
+
+/* Travel page styles */
+
+
 
 /* About page styles */
 
