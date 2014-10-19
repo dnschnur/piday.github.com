@@ -371,7 +371,8 @@ input[type=submit]:disabled {
 }
 
 .lightbox {
-  background: rgba(0,0,0,0.9);
+  background-color: #000;
+  background-color: rgba(0,0,0,0.9);
   bottom: 0;
   cursor: zoom-out;
   display: none;
