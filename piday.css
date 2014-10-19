@@ -489,6 +489,10 @@ input[type=submit]:disabled {
   left: 25px;
 }
 
+.profile-photo-star .title::before {
+  left: 55px;
+}
+
 /* Responsive style overrides for smaller widths and mobile devices */
 
 @media (max-width: 800px) {
