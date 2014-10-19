@@ -24,7 +24,7 @@ We haven't written our story yet; please check back soon!
 </div>
 
 <div class="profile-info">Name: Felicia Reid</div>
-<div class="profile-info">Code Name: </div>
+<div class="profile-info">Code Name: Fle</div>
 
 Felicia
 
@@ -36,9 +36,9 @@ Felicia
 </div>
 
 <div class="profile-info">Name: David Schnur</div>
-<div class="profile-info">Code Name: </div>
+<div class="profile-info">Code Name: Daaaave</div>
 
-David
+David is the bride's handsome better half. A talented Google programmer who wrote this site from scratch, David is the bride's best friend, mixed doubles tennis partner, and the love of her life. Logical and curious with a love for travel, who knows kinds of adventures they'll go on? Fun fact: David lived in India, the Philippines, and China before moving to the U.S.
 
 ----------------------------------------------------------------------
 
@@ -87,3 +87,15 @@ Carl is a long time friend of both the groom and bride. Scientist by trade, farm
 <div class="profile-info">Code Name: ???</div>
 
 David hasn't announced his second groomsman yet; the choice is shrouded in mystery! Who will it be?
+
+----------------------------------------------------------------------
+
+<div class="photo profile-photo profile-photo-unknown">
+  <img src="/images/people/shadow.jpg">
+  <div class="title">Ringbearer in absentia</div>
+</div>
+
+<div class="profile-info">Name: Star</div>
+<div class="profile-info">Code Name: Katsu</div>
+
+Star is the bride and groom's favorite furry friend. Friendly and playful with a large appetite, Star's frequent and rumbling engine-like purrs have magical healing properties. Although he won't be able to attend the wedding for logistical reasons, you can be sure that his soft, generously-shedded fur will.
