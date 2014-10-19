@@ -461,8 +461,32 @@ input[type=submit]:disabled {
   z-index: 5;
 }
 
+.profile-photo-felicia .title::before {
+  width: 50px;
+}
+
+.profile-photo-david .title::before {
+  width: 65px;
+}
+
+.profile-photo-kristen .title::before {
+  left: 30px;
+}
+
 .profile-photo-susan .title {
   left: 7px;
+}
+
+.profile-photo-susan .title::before {
+  left: 60px;
+}
+
+.profile-photo-carl .title::before {
+  left: 25px;
+}
+
+.profile-photo-unknown .title::before {
+  left: 25px;
 }
 
 /* Responsive style overrides for smaller widths and mobile devices */
