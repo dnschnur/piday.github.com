@@ -516,7 +516,7 @@ input[type=submit]:disabled {
 }
 
 .profile-photo-star .title::before {
-  left: 55px;
+  left: 50px;
 }
 
 /* Responsive style overrides for smaller widths and mobile devices */
