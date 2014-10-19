@@ -370,6 +370,32 @@ input[type=submit]:disabled {
   width: 100px;
 }
 
+.lightbox {
+  background: rgba(0,0,0,0.9);
+  bottom: 0;
+  cursor: zoom-out;
+  display: none;
+  left: 0;
+  position: fixed;
+  right: 0;
+  top: 0;
+}
+
+.lightbox-content {
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: contain;
+  bottom: 30px;
+  left: 30px;
+  position: absolute;
+  right: 30px;
+  top: 30px;
+}
+
+.lightboxable {
+  cursor: zoom-in;
+}
+
 .map {
   border: 1px solid #ddd;
   border-radius: 3px;
