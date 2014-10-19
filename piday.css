@@ -411,7 +411,13 @@ input[type=submit]:disabled {
 
 /* About page styles */
 
-.about-info {
+.matterhorn-photo {
+  float: right;
+  margin: 0 10px 30px 30px;
+  width: 250px;
+}
+
+.profile-info {
   margin: 5px 0;
   font: bold 16px monospace;
 }
