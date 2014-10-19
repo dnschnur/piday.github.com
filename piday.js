@@ -31,16 +31,19 @@ $(function() {
 
   // Submit asynchronously and show a confirmation message
   form.submit(function(event) {
-    event.preventDefault();
+    var url = form.attr('action');
+    var data = form.serialize();
 
     confirmation.hide();
     inputs.prop('disabled', true);
 
-    var url = form.attr('action');
-    $.post(url, form.serialize()).done(function() {
+    $.post(url, data).always(function() {
+      window.console.log('You can ignore the error above.');
       inputs.prop('disabled', false);
       confirmation.show();
     });
+
+    event.preventDefault();
     return false;
   });
 });
