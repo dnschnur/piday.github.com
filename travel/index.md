@@ -4,7 +4,7 @@ layout: default
 
 ## Travel ##
 
-Are you coming to the Upper Valley from far away? Please check back here soon, as we will be updating this page with information on hotels, restaurant recommendations, and more.
+Are you coming to the Upper Valley from far away? We've assembled all of the information you need to enjoy your visit, from hotels and restaurants to things to do during your free time. We invite you to taste and explore the place we called home for almost a decade. Questions? [Contact us](/about/contact.html)!
 
 
 ### Lodging ###
