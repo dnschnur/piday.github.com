@@ -4,7 +4,7 @@ layout: default
 
 ## Travel ##
 
-Are you coming to the Upper Valley from far away? Please check back here soon, as we will be updating this page with information on hotels, air travel, and more.
+Are you coming to the Upper Valley from far away? Please check back here soon, as we will be updating this page with information on hotels, restaurant recommendations, and more.
 
 
 ### Lodging ###
@@ -13,7 +13,7 @@ Are you coming to the Upper Valley from far away? Please check back here soon, a
   <img src="/images/places/hanover-inn.jpg">
 </div>
 
-Please check back here soon, as we will be updating this page with information on local hotels.
+Need a place to rest? Click on the map for descriptions and links to the best local hotels. Feel free to choose whichever hotel suits your needs best, as we don't have hotel blocks booked due to the relatively low number of out-of-town guests.
 
 <div class="map">
   <iframe src="https://www.google.com/maps/d/embed?mid=zFR_mzWpa23c.kBgRWeXc27lg"></iframe>
