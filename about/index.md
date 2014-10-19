@@ -13,13 +13,21 @@ Everything you’ve ever wanted to know about the bride, groom, and wedding part
   <img src="/images/places/matterhorn.jpg">
 </div>
 
-How they met: Unofficially, David and Felicia were introduced online. Officially, they met on the Rail Trail in Lebanon, NH. Felicia had found a lost dog wandering the trail and was searching for its owner. David cycled by and stopped to help. After safely delivering the dog (named Buster), they made plans for their first date.
+How they met: 
 
-First date: Hiking the Velvet Rocks trail in Hanover, NH. It was a challenging (read: slippery) hike with no view at the top, and they found yet another lost dog which they nicknamed “Columbus”. Columbus was reunited with his owner at the trailhead.
+Unofficially, David and Felicia were introduced online. Officially, they met on the Rail Trail in Lebanon, NH. Felicia had found a lost dog wandering the trail and was searching for its owner. David cycled by and stopped to help. After safely delivering the dog (named Buster), they made plans for their first date.
 
-When they officially became a couple: Second date on August 1, 2010, hiking at Holt’s Ledge in Enfield, NH. They did not find another dog, but did come across a rather brave squirrel. After hiking, they watched the worst movie ever made, Osmosis Jones. They’ve been inseparable ever since.
+First date: 
 
-How he proposed: David proposed on August 3, 2013 in Zermatt, Switzerland during a sunset hike near the Matterhorn. Felicia was so surprised, she couldn't believe it.
+Hiking the Velvet Rocks trail in Hanover, NH. It was a challenging (read: slippery) hike with no view at the top, and they found yet another lost dog which they nicknamed “Columbus”. Columbus was reunited with his owner at the trailhead.
+
+When they officially became a couple: 
+
+Second date on August 1, 2010, hiking at Holt’s Ledge in Enfield, NH. They did not find another dog, but did come across a rather brave squirrel. After hiking, they watched the worst movie ever made, Osmosis Jones. They’ve been inseparable ever since.
+
+How he proposed: 
+
+David proposed on August 3, 2013 in Zermatt, Switzerland during a sunset hike near the Matterhorn. Felicia was so surprised, she blurted out, "Are you kidding me?!" before answering with a resounding "Yes!"
 
 
 ### Wedding Party ###
