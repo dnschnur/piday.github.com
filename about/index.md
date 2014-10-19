@@ -105,7 +105,7 @@ David hasn't announced his second groomsman yet; the choice is shrouded in myste
 ----------------------------------------------------------------------
 
 <div class="photo profile-photo profile-photo-star">
-  <img src="/images/people/shadow.jpg">
+  <img src="/images/people/star.jpg">
   <div class="title">Ringbearer in absentia</div>
 </div>
 
