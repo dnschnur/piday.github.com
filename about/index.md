@@ -14,7 +14,7 @@ We haven't written our story yet; please check back soon!
 
 ### Wedding Party ###
 
-<div class="photo photo-about photo-about-kristen">
+<div class="photo profile-photo profile-photo-kristen">
   <img src="/images/people/kristen.jpg">
   <div class="title">Matron of Honor</div>
 </div>
@@ -26,7 +26,7 @@ Kristen is the bride’s stunt double and one half of the Reidoisio twins. Known
 
 ----------------------------------------------------------------------
 
-<div class="photo photo-about photo-about-susan">
+<div class="photo profile-photo profile-photo-susan">
   <img src="/images/people/susan.jpg">
   <div class="title">Bridesmaid Extraordinaire</div>
 </div>
@@ -38,7 +38,7 @@ Susan is the bride’s soon-to-be sister-in-law. Tamer of the wild Starfish the 
 
 ----------------------------------------------------------------------
 
-<div class="photo photo-about photo-about-carl">
+<div class="photo profile-photo profile-photo-carl">
   <img src="/images/people/carl.jpg">
   <div class="title">Groomsman #1</div>
 </div>
@@ -50,7 +50,7 @@ Carl is a long time friend of both the groom and bride. Scientist by trade, farm
 
 ----------------------------------------------------------------------
 
-<div class="photo photo-about photo-about-unknown">
+<div class="photo profile-photo profile-photo-unknown">
   <img src="/images/people/shadow.jpg">
   <div class="title">Groomsman #2</div>
 </div>
