@@ -15,12 +15,17 @@ body {
 }
 
 h2 {
+  clear: both;
   font: 3.75em "tangerine", Helvetica, Arial, sans-serif;
   margin: 5px 0 -10px 0;
   white-space: nowrap;
 }
 
 h3 {
+  clear: both;
+}
+
+h4 {
   clear: both;
 }
 
