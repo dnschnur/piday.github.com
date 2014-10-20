@@ -52,11 +52,9 @@ For menu and pricing information, see the [restaurant website](http://www.jesses
 
 ### Directions and Parking ###
 
-<div class="map map-directions">
-  <iframe src="https://www.google.com/maps/d/embed?mid=zFR_mzWpa23c.kN-U4lPOJLcA"></iframe>
-</div>
-
-From the wedding to the reception:
+<a href="https://www.google.com/maps/d/edit?mid=zFR_mzWpa23c.kN-U4lPOJLcA" class="map-link map-link-directions" title="Click here for directions">
+  <img src="/images/places/directions-map.jpg">
+</a>
 
 1. From Rollins Chapel, head north on College St away from the Green
 
