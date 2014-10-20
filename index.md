@@ -4,7 +4,7 @@ layout: default
 
 ## Welcome! ##
 
-<div class="photo lightboxable photo-right">
+<div class="photo lightboxable photo-right welcome-photo">
   <img src="/images/places/stgaudens.jpg">
 </div>
 
