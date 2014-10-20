@@ -48,4 +48,6 @@ The Upper Valley has a wide variety of delicious dining options. The map below h
 
 We invite you to explore all that the Upper Valley has to offer. Here are a few of our favorite spots or you can check out the Visitors pages of the [Hanover](http://www.hanoverchamber.org/index.php?id=178&page=Hanover%20Area%20Chamber%20of%20Commerce%20-%20Visitors) and [Lebanon](http://lebanonchamber.com/visitors/) Chambers of Commerce for inspiration.
 
-'Insert our spots here.'
+<div class="map">
+  <iframe src="https://www.google.com/maps/d/embed?mid=zFR_mzWpa23c.kE0Jle7iFuxk"></iframe>
+</div>
