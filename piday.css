@@ -645,6 +645,15 @@ input[type=submit]:disabled {
     width: 80px;
   }
 
+  .lightbox-content {
+    bottom: 15px;
+    left: 15px;
+    right: 15px;
+    top: 15px;
+  }
+
+  /* Page-specific responsive styles */
+
   .matterhorn-photo {
     margin-bottom: 10px;
   }
@@ -792,6 +801,15 @@ input[type=submit]:disabled {
     height: 275px;
   }
 
+  .lightbox-content {
+    bottom: 15px;
+    left: 15px;
+    right: 15px;
+    top: 15px;
+  }
+
+  /* Page-specific responsive styles */
+
   .welcome-photo {
     margin-bottom: 15px;
   }
@@ -866,6 +884,8 @@ input[type=submit]:disabled {
   .map-link-directions {
     margin-right: 0;
   }
+
+  /* Page-specific responsive styles */
 
   .matterhorn-photo {
     margin: 0 0 20px 0;
