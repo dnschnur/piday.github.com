@@ -905,12 +905,7 @@ input[type=submit]:disabled {
   }
 
   .profile-photo .title {
-    font-size: 1em;
-  }
-
-  .profile-photo .title::before {
-    height: 20px;
-    top: -15px;
+    font-size: 1.1em;
   }
 
   .profile-photo-felicia .title::before {
