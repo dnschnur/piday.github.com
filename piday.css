@@ -50,10 +50,8 @@ a:hover {
 #title {
   background: #fff;
   height: 120px;
-  left: 0;
-  position: absolute;
-  right: 0;
-  top: 0;
+  position: relative;
+  width: 100%;
 }
 
 #title-box {
@@ -106,30 +104,21 @@ a:hover {
   -webkit-background-size: cover;
   background-size: cover;
   height: 240px;
-  left: 0;
-  position: absolute;
-  right: 0;
-  top: 120px;
 }
 
 #menu {
-  left: 0;
   margin: 0 auto;
   max-width: 800px;
   overflow: visible;
   padding: 5px;
-  position: absolute;
-  right: 0;
+  position: relative;
   text-align: center;
-  top: 360px;
 }
 
 #content {
   margin: 0 auto;
   max-width: 800px;
   padding: 10px 15px 20px 15px;
-  position: relative;
-  top: 415px;
 }
 
 .menu-item {
@@ -581,7 +570,6 @@ input[type=submit]:disabled {
 
   #banner {
     height: 268px;
-    top: 88px;
   }
 
   #menu {
@@ -723,16 +711,10 @@ input[type=submit]:disabled {
 
   #banner {
     height: 216px;
-    top: 72px;
   }
 
   #menu {
     max-width: 310px;
-    top: 288px;
-  }
-
-  #content {
-    top: 350px;
   }
 
   .title-logo {
