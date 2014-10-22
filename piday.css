@@ -1,15 +1,12 @@
 html {
-  height: 100%;
   overflow-x: hidden;
 }
 
 body {
   font: 1.15em/1.3em "myriad-pro", Helvetica, Arial, sans-serif;
-  height: 100%;
   margin: 0;
   min-width: 320px;
   overflow-x: hidden;
-  overflow-y: auto;
   padding: 0;
   position: relative;
 }
@@ -68,6 +65,9 @@ a:hover {
 
 .title-logo {
   background-image: url(/images/logo.png);
+  -o-background-size: contain;
+  -moz-background-size: contain;
+  -webkit-background-size: contain;
   background-size: contain;
   border: 0;
   height: 80px;
@@ -105,34 +105,31 @@ a:hover {
   -moz-background-size: cover;
   -webkit-background-size: cover;
   background-size: cover;
-  height: 360px;
-  left: 0;
-  position: fixed;
-  right: 0;
-  top: 0;
-  z-index: -1;
-}
-
-#wrapper {
-  background: #fff;
+  height: 240px;
   left: 0;
   position: absolute;
   right: 0;
-  top: 360px;
+  top: 120px;
 }
 
 #menu {
+  left: 0;
   margin: 0 auto;
   max-width: 800px;
   overflow: visible;
   padding: 5px;
+  position: absolute;
+  right: 0;
   text-align: center;
+  top: 360px;
 }
 
 #content {
   margin: 0 auto;
   max-width: 800px;
   padding: 10px 15px 20px 15px;
+  position: relative;
+  top: 415px;
 }
 
 .menu-item {
@@ -401,6 +398,9 @@ input[type=submit]:disabled {
 .lightbox-content {
   background-position: 50% 50%;
   background-repeat: no-repeat;
+  -o-background-size: contain;
+  -moz-background-size: contain;
+  -webkit-background-size: contain;
   background-size: contain;
   bottom: 30px;
   left: 30px;
@@ -581,14 +581,11 @@ input[type=submit]:disabled {
 
   #banner {
     height: 268px;
+    top: 88px;
   }
 
   #menu {
     max-width: 450px;
-  }
-
-  #wrapper {
-    top: 268px;
   }
 
   .title-logo {
@@ -726,14 +723,16 @@ input[type=submit]:disabled {
 
   #banner {
     height: 216px;
+    top: 72px;
   }
 
   #menu {
     max-width: 310px;
+    top: 288px;
   }
 
-  #wrapper {
-    top: 216px;
+  #content {
+    top: 350px;
   }
 
   .title-logo {
