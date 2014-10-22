@@ -802,10 +802,10 @@ input[type=submit]:disabled {
   }
 
   .lightbox-content {
-    bottom: 15px;
-    left: 15px;
-    right: 15px;
-    top: 15px;
+    bottom: 5px;
+    left: 5px;
+    right: 5px;
+    top: 5px;
   }
 
   /* Page-specific responsive styles */
