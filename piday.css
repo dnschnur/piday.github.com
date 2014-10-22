@@ -132,7 +132,7 @@ a:hover {
 #content {
   margin: 0 auto;
   max-width: 800px;
-  padding: 10px 15px 50px 15px;
+  padding: 10px 15px 20px 15px;
 }
 
 .menu-item {
@@ -304,7 +304,7 @@ input[type=submit]:disabled {
   -moz-box-shadow: 0 3px 10px rgba(0,0,0,0.15);
   -webkit-box-shadow: 0 3px 10px rgba(0,0,0,0.15);
   box-shadow: 0 3px 10px rgba(0,0,0,0.15);
-  margin: 15px 0 20px 0;
+  margin: 10px 0 20px 0;
   padding: 10px;
   position: relative;
 }
@@ -320,8 +320,9 @@ input[type=submit]:disabled {
 }
 
 .photo .caption {
-  font-size: 0.8em;
+  font-size: .8em;
   font-style: italic;
+  line-height: 1.25em;
 }
 
 .map-link {
@@ -338,7 +339,21 @@ input[type=submit]:disabled {
   position: relative;
 }
 
+.map-link img {
+  width: 100px;
+}
+
+.map-link-standalone {
+  float: left;
+  margin: 0 25px 40px 0;
+}
+
+.map-link-standalone img {
+  width: 200px;
+}
+
 .photo .map-link {
+  -webkit-backface-visibility: hidden;
   left: 20px;
   position: absolute;
   top: -12px;
@@ -349,12 +364,13 @@ input[type=submit]:disabled {
 }
 
 .double-photos {
-  margin-top: 15px;
+  margin-top: 0px;
   white-space: nowrap;
 }
 
 .double-photo {
   display: inline-block;
+  vertical-align: top;
   white-space: normal;
   width: 50%;
 }
@@ -368,11 +384,6 @@ input[type=submit]:disabled {
 }
 .double-photo:last-child a {
   margin-left: 10px;
-}
-
-.map-link img {
-  height: 100px;
-  width: 100px;
 }
 
 .lightbox {
@@ -422,29 +433,13 @@ input[type=submit]:disabled {
 /* Welcome page styles */
 
 .welcome-photo {
-  margin-bottom: 50px;
+  margin-bottom: 25px;
 }
 
 /* Events page styles */
 
-.map-link-jesses {
-  float: left;
-  margin: 0 25px 40px 0;
-}
-
-.map-link-jesses img {
-  height: 200px;
-  width: 200px;
-}
-
 .map-link-directions {
-  float: left;
-  margin: 0 50px 50px 0;
-}
-
-.map-link-directions img {
-  height: 200px;
-  width: 200px;
+  margin-right: 50px;
 }
 
 /* Travel page styles */
@@ -455,7 +450,10 @@ input[type=submit]:disabled {
 
 .matterhorn-photo {
   float: right;
-  margin: 0 10px 30px 30px;
+  margin: 0 10px 15px 25px;
+}
+
+.matterhorn-photo img {
   width: 250px;
 }
 
@@ -465,6 +463,7 @@ input[type=submit]:disabled {
 }
 
 .profile-photo {
+  -webkit-backface-visibility: hidden;
   float: left;
   margin: 10px 40px 30px 10px;
   -moz-transform: rotate(-2deg);
@@ -543,6 +542,10 @@ input[type=submit]:disabled {
     max-width: 500px;
   }
 
+  #content {
+    padding-bottom: 10px;
+  }
+
   .menu-item {
     margin: 0 9px;
   }
@@ -560,6 +563,16 @@ input[type=submit]:disabled {
 
   h2 {
     font-size: 3.5em;
+    margin-bottom: 10px;
+  }
+
+  h3 {
+    font-size: 1.1em;
+    margin-top: 1.25em;
+  }
+
+  hr {
+    margin: 15px 0;
   }
 
   #title {
@@ -603,22 +616,88 @@ input[type=submit]:disabled {
     top: 1.5em;
   }
 
-  .quick-links {
+  .double-photos {
     white-space: normal;
   }
 
-  .quick-link {
+  .double-photo {
     width: 100%;
   }
-  .quick-link:first-child a {
+  .double-photo a {
+    margin-top: 5px;
+  }
+  .double-photo:first-child a {
     margin-right: 0;
   }
-  .quick-link:last-child a {
+  .double-photo:last-child a {
     margin-left: 0;
+  }
+
+  .photo {
+    padding: 8px;
   }
 
   .map {
     height: 300px;
+  }
+
+  .photo .map-link img {
+    width: 80px;
+  }
+
+  .matterhorn-photo {
+    margin-bottom: 10px;
+  }
+
+  .matterhorn-photo img {
+    width: 200px;
+  }
+
+  .profile-photo {
+    margin-bottom: 30px;
+    margin-right: 25px;
+    width: 150px;
+  }
+
+  .profile-photo .title {
+    font-size: 0.8em;
+  }
+
+  .profile-photo .title::before {
+    height: 15px;
+    top: -12px;
+  }
+
+  .profile-photo-felicia .title::before {
+    width: 30px;
+  }
+
+  .profile-photo-david .title::before {
+    width: 40px;
+  }
+
+  .profile-photo-kristen .title::before {
+    left: 10px;
+  }
+
+  .profile-photo-susan .title {
+    left: 10px;
+  }
+
+  .profile-photo-susan .title::before {
+    left: 30px;
+  }
+
+  .profile-photo-carl .title::before {
+    left: 7px;
+  }
+
+  .profile-photo-unknown .title::before {
+    left: 5px;
+  }
+
+  .profile-photo-star .title::before {
+    left: 25px;
   }
 }
 
@@ -626,6 +705,10 @@ input[type=submit]:disabled {
 
   h2 {
     font-size: 2.5em;
+  }
+
+  hr {
+    margin: 10px 0;
   }
 
   #title {
@@ -686,13 +769,159 @@ input[type=submit]:disabled {
     right: 19px;
   }
 
+  .photo {
+    padding: 7px;
+  }
+
   .photo-right {
     float: inherit;
-    margin: 0;
+    margin-left: 0;
+    margin-right: 0;
     width: auto;
+  }
+
+  .map-link-standalone {
+    margin-bottom: 150px;
+  }
+
+  .map-link-standalone img {
+    width: 125px;
   }
 
   .map {
     height: 275px;
+  }
+
+  .welcome-photo {
+    margin-bottom: 15px;
+  }
+
+  .matterhorn-photo img {
+    width: 175px;
+  }
+
+  .profile-info {
+    font-size: 1.25em;
+  }
+
+  .profile-photo {
+    width: 135px;
+  }
+
+  .profile-photo .title {
+    font-size: 0.7em;
+  }
+
+  .profile-photo-felicia .title::before {
+    left: 10px;
+  }
+
+  .profile-photo-david .title::before {
+    left: 10px;
+  }
+
+  .profile-photo-kristen .title::before {
+    width: 65px;
+  }
+
+  .profile-photo-susan .title {
+    left: 9px;
+  }
+
+  .profile-photo-susan .title::before {
+    left: 25px;
+  }
+
+  .profile-photo-carl .title::before {
+    width: 60px;
+  }
+
+  .profile-photo-unknown .title::before {
+    width: 65px;
+  }
+
+  .profile-photo-star .title::before {
+    left: 20px;
+  }
+}
+
+@media (max-width: 380px) {
+
+  .map-link-standalone {
+    margin: 0 0 15px 0;
+  }
+
+  .map-link-standalone img {
+    width: 100%;
+  }
+
+  .photo .map-link {
+    left: 15px;
+  }
+
+  .photo .map-link img {
+    width: 60px;
+  }
+
+  .map-link-directions {
+    margin-right: 0;
+  }
+
+  .matterhorn-photo {
+    margin: 0 0 20px 0;
+  }
+
+  .matterhorn-photo img {
+    width: 100%;
+  }
+
+  .profile-photo {
+    width: auto;
+    margin: 10px 0 20px 0;
+    -moz-transform: inherit;
+    -ms-transform: inherit;
+    -webkit-transform: inherit;
+    transform: inherit;
+  }
+
+  .profile-photo .title {
+    font-size: 1em;
+  }
+
+  .profile-photo .title::before {
+    height: 20px;
+    top: -15px;
+  }
+
+  .profile-photo-felicia .title::before {
+    width: 40px;
+  }
+
+  .profile-photo-david .title::before {
+    width: 55px;
+  }
+
+  .profile-photo-kristen .title::before {
+    left: 20px;
+  }
+
+  .profile-photo-susan .title {
+    left: 20px;
+  }
+
+  .profile-photo-susan .title::before {
+    left: 50px;
+  }
+
+  .profile-photo-carl .title::before {
+    left: 15px;
+  }
+
+  .profile-photo-unknown .title::before {
+    left: 15px;
+  }
+
+  .profile-photo-star .title::before {
+    left: 40px;
   }
 }
