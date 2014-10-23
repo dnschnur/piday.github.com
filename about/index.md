@@ -15,15 +15,21 @@ Everything you’ve ever wanted to know about the bride, groom, and wedding part
 
 How they met: 
 
-Unofficially, David and Felicia were introduced online. Officially, they met on the Rail Trail in Lebanon, NH. Felicia had found a lost dog wandering the trail and was searching for its owner. David cycled by and stopped to help. After safely delivering the dog (named Buster), they made plans for their first date.
+Although they were introduced online, David and Felicia first met on the Rail Trail in Lebanon, NH. Felicia had found a lost dog (named Buster) wandering the trail, and was searching for its owner. David cycled by and stopped to help. After safely delivering the dog, they made plans for their first date.
 
 First date: 
 
-Hiking the Velvet Rocks trail in Hanover, NH. It was a challenging (read: slippery) hike with no view at the top, and they found yet another lost dog which they nicknamed “Columbus”. Columbus was reunited with his owner at the trailhead.
+Hiking the Velvet Rocks trail in Hanover, NH. It was a challenging (read: slippery) hike whose views didn't quite live up to the hype, but they found yet another lost dog. They nicknamed it “Columbus” for its unwavering certainty that it was heading in the right direction, when clearly it wasn't. Columbus was reunited with his owner at the trailhead.
 
 When they officially became a couple: 
 
-Second date on August 1, 2010, hiking at Holt’s Ledge in Enfield, NH. They did not find another dog, but did come across a rather brave squirrel. After hiking, they watched the worst movie ever made, Osmosis Jones. They’ve been inseparable ever since.
+On August 1, 2010, hiking at Holt’s Ledge in Enfield, NH. They did not find another dog, but did come across a rather brave chipmunk, now immortalized in haiku:
+
+> Our wee furry friend
+> Is most persistent indeed.
+> Guard your lunch with care!
+
+After dinner they watched the worst movie ever made, Osmosis Jones, and have been inseparable ever since.
 
 How he proposed: 
 
@@ -38,7 +44,7 @@ David proposed on August 3, 2013 in Zermatt, Switzerland during a sunset hike ne
 </div>
 
 <div class="profile-info">Name: Felicia Reid</div>
-<div class="profile-info">Code Name: Fle</div>
+<div class="profile-info">Code Name: </div>
 
 Felicia
 
@@ -50,7 +56,7 @@ Felicia
 </div>
 
 <div class="profile-info">Name: David Schnur</div>
-<div class="profile-info">Code Name: Daaaave</div>
+<div class="profile-info">Code Name: Mr. Switzerland</div>
 
 David is the bride's handsome better half. A talented Google programmer who wrote this site from scratch, David is the bride's best friend, mixed doubles tennis partner, and the love of her life. Logical and curious with a love for travel, who knows kinds of adventures they'll go on? Fun fact: David lived in India, the Philippines, and China before moving to the U.S.
 
