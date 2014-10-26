@@ -51,7 +51,7 @@ Felicia
 ----------------------------------------------------------------------
 
 <div class="photo profile-photo profile-photo-david">
-  <img src="/images/people/shadow.jpg">
+  <img src="/images/people/david.jpg">
   <div class="title">The Groom</div>
 </div>
 
