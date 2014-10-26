@@ -399,11 +399,20 @@ input[type=submit]:disabled {
   -ms-behavior: url(/backgroundsize.min.htc);
   -webkit-background-size: contain;
   background-size: contain;
-  bottom: 30px;
-  left: 30px;
+  bottom: 20px;
+  left: 20px;
   position: absolute;
-  right: 30px;
-  top: 30px;
+  right: 20px;
+  top: 20px;
+}
+
+.ie8 .lightbox-content {
+  bottom: 0;
+  height: 100%;
+  left: 0;
+  right: 0;
+  top: 0;
+  width: 100%;
 }
 
 .lightboxable {
@@ -619,6 +628,13 @@ input[type=submit]:disabled {
     top: 15px;
   }
 
+  .ie8 .lightbox-content {
+    bottom: 0;
+    left: 0;
+    right: 0;
+    top: 0;
+  }
+
   /* Page-specific responsive styles */
 
   .matterhorn-photo {
@@ -766,6 +782,13 @@ input[type=submit]:disabled {
     left: 5px;
     right: 5px;
     top: 5px;
+  }
+
+  .ie8 .lightbox-content {
+    bottom: 0;
+    left: 0;
+    right: 0;
+    top: 0;
   }
 
   /* Page-specific responsive styles */
