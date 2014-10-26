@@ -889,7 +889,6 @@ input[type=submit]:disabled {
     width: auto;
     margin: 10px 0 20px 0;
     -moz-transform: inherit;
-    -ms-filter: inherit;
     -ms-transform: inherit;
     -webkit-transform: inherit;
     transform: inherit;
