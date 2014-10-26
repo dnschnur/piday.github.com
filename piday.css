@@ -159,7 +159,7 @@ a:hover {
   background: #fff;
   border: 1px solid #ccc;
   border-radius: 3px;
-  -o-box-shadow: 0 3px 10px rgba(0,0,0,0.15);
+  -ms-behavior: url(/pie.htc);
   -moz-box-shadow: 0 3px 10px rgba(0,0,0,0.15);
   -webkit-box-shadow: 0 3px 10px rgba(0,0,0,0.15);
   box-shadow: 0 3px 10px rgba(0,0,0,0.15);
@@ -224,8 +224,8 @@ input {
 input[type=text], input[type=email], textarea {
   border: 1px solid #ccc;
   border-radius: 3px;
-  -o-box-shadow: inset 0 1px 3px rgba(0,0,0,0.1);
   -moz-box-shadow: inset 0 1px 3px rgba(0,0,0,0.1);
+  -ms-behavior: url(/pie.htc);
   -webkit-box-shadow: inset 0 1px 3px rgba(0,0,0,0.1);
   box-shadow: inset 0 1px 3px rgba(0,0,0,0.1);
   color: #000;
@@ -253,8 +253,8 @@ input[type=submit] {
   background-color: #2071c1;
   border: 1px solid #1061b1;
   border-radius: 3px;
-  -o-box-shadow: inset 0 2px 4px rgba(0,0,0,0.1);
   -moz-box-shadow: inset 0 2px 4px rgba(0,0,0,0.1);
+  -ms-behavior: url(/pie.htc);
   -webkit-box-shadow: inset 0 2px 4px rgba(0,0,0,0.1);
   box-shadow: 0 2px 4px rgba(0,0,0,0.1);
   color: #fff;
@@ -296,8 +296,8 @@ input[type=submit]:disabled {
   background: #fff;
   border: 1px solid #ddd;
   border-radius: 3px;
-  -o-box-shadow: 0 3px 10px rgba(0,0,0,0.15);
   -moz-box-shadow: 0 3px 10px rgba(0,0,0,0.15);
+  -ms-behavior: url(/pie.htc);
   -webkit-box-shadow: 0 3px 10px rgba(0,0,0,0.15);
   box-shadow: 0 3px 10px rgba(0,0,0,0.15);
   margin: 10px 0 20px 0;
@@ -325,8 +325,8 @@ input[type=submit]:disabled {
   background: #fff;
   border: 1px solid #ddd;
   border-radius: 3px;
-  -o-box-shadow: 0 3px 10px rgba(0,0,0,0.15);
   -moz-box-shadow: 0 3px 10px rgba(0,0,0,0.15);
+  -ms-behavior: url(/pie.htc);
   -webkit-box-shadow: 0 3px 10px rgba(0,0,0,0.15);
   box-shadow: 0 3px 10px rgba(0,0,0,0.15);
   cursor: pointer;
@@ -461,8 +461,8 @@ input[type=submit]:disabled {
 
 .profile-photo .title {
   background: #fea;
-  -ms-box-shadow: 0 1px 2px #888;
   -moz-box-shadow: 0 1px 2px #888;
+  -ms-behavior: url(/pie.htc);
   -webkit-box-shadow: 0 1px 2px #888;
   box-shadow: 0 1px 2px #888;
   left: 20px;
@@ -474,8 +474,8 @@ input[type=submit]:disabled {
 .profile-photo .title::before {
   background-color: rgba(240,245,230,0.4);
   border: 2px solid rgba(255,255,255,0.4);
-  -ms-box-shadow: 0 0 5px rgba(0,0,0,0.1);
   -moz-box-shadow: 0 0 5px rgba(0,0,0,0.1);
+  -ms-behavior: url(/pie.htc);
   -webkit-box-shadow: 0 0 5px rgba(0,0,0,0.1);
   box-shadow: 0 0 5px rgba(0,0,0,0.1);
   content: ' ';
