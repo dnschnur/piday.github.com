@@ -36,7 +36,7 @@ Following the ceremony, formal photos will be taken at the chapel for approximat
 
 The reception will be held from 5:00 - 10:00 PM on Saturday, March 14, 2015 at the [Dartmouth Outing Club House](https://goo.gl/maps/z4kja) on Occom Pond in Hanover, NH.
 
-The venue is only a 3 minute drive from Rollins Chapel. You can drive your own car to the venue (see [Directions](#directions%20and%20parking)) as there will be ample parking at the Hanover Country Club across the road.
+The venue is only a 3 minute drive from Rollins Chapel. You can drive your own car to the venue (see [Directions](#directions-and-parking)) as there will be ample parking at the Hanover Country Club across the road.
 
 
 ### Brunch ###

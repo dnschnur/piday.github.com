@@ -13,7 +13,7 @@ FAQ Page for all of your questions-answered needs. Have a burning question thatâ
 
 - Why are you getting married in NH when you live in CA? - We lived in the Upper Valley for almost a decade, and it's where our friends and family live. What better place to get married than where it all began?
 
-- How do I get to the venues? - Lucky for you, the [Events page](/events/directions.html) has got you covered.
+- How do I get to the venues? - Lucky for you, the [Events page](/events/index.html#directions-and-parking) has got you covered.
 
 - What time should I arrive? - The ceremony will begin promptly at 3:26 PM, so please be sure to arrive at Rollins Chapel 30 - 45 minutes early to get a good seat and get settled in.
 
