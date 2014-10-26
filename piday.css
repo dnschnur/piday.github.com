@@ -752,7 +752,7 @@ input[type=submit]:disabled {
   }
 
   .map-link-standalone {
-    margin-bottom: 20;
+    margin-bottom: 20px;
     padding: 5px;
   }
 
