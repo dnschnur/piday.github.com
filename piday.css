@@ -96,14 +96,8 @@ a:hover {
   top: 75px;
 }
 
-#banner {
-  background-image: url(/images/banner-heart.jpg);
-  background-position: center;
-  -o-background-size: cover;
-  -moz-background-size: cover;
-  -webkit-background-size: cover;
-  background-size: cover;
-  height: 240px;
+#banner img {
+  width: 100%;
 }
 
 #menu {
@@ -568,10 +562,6 @@ input[type=submit]:disabled {
     height: 88px;
   }
 
-  #banner {
-    height: 268px;
-  }
-
   #menu {
     max-width: 450px;
   }
@@ -707,10 +697,6 @@ input[type=submit]:disabled {
 
   #title {
     height: 72px;
-  }
-
-  #banner {
-    height: 216px;
   }
 
   #menu {
