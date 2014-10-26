@@ -79,6 +79,7 @@ a:hover {
   background-image: url(/images/logo.png);
   -o-background-size: contain;
   -moz-background-size: contain;
+  -ms-behavior: url(/backgroundsize.min.htc);
   -webkit-background-size: contain;
   background-size: contain;
   border: 0;
@@ -400,6 +401,7 @@ input[type=submit]:disabled {
   background-repeat: no-repeat;
   -o-background-size: contain;
   -moz-background-size: contain;
+  -ms-behavior: url(/backgroundsize.min.htc);
   -webkit-background-size: contain;
   background-size: contain;
   bottom: 30px;
