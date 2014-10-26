@@ -241,7 +241,7 @@ input[type=text], input[type=email] {
 
 textarea {
   height: 200px;
-  width: 500px;
+  width: 450px;
 }
 
 input[type=submit] {
@@ -276,6 +276,7 @@ input[type=submit]:disabled {
 .form-field {
   display: inline-block;
   white-space: nowrap;
+  width: 100%;
 }
 
 .confirmation {
@@ -683,6 +684,10 @@ input[type=submit]:disabled {
 
   hr {
     margin: 10px 0;
+  }
+
+  textarea {
+    width: 100%;
   }
 
   #title {
