@@ -40,6 +40,16 @@ p {
   margin-top: 0;
 }
 
+blockquote {
+  margin-left: 20px;
+}
+
+blockquote p {
+  font-style: italic;
+  margin: 0;
+  white-space: pre-line;
+}
+
 a {
   color: #555;
 }
