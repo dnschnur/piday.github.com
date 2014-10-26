@@ -13,7 +13,7 @@ We hope that you will enjoy your time in the Upper Valley and that you have a ch
 
 <div class="photo lightboxable">
   <img src="/images/places/rollins.jpg">
-  <a href="https://goo.gl/maps/ieuIy" class="map-link" title="Click here for directions">
+  <a href="https://goo.gl/maps/ieuIy" class="map-link" target="_blank" title="Click here for directions">
     <img src="/images/maps/rollins-map.jpg">
   </a>
 </div>
@@ -29,30 +29,30 @@ Following the ceremony, formal photos will be taken at the chapel for approximat
 
 <div class="photo lightboxable">
   <img src="/images/places/doc-house.jpg">
-  <a href="https://goo.gl/maps/z4kja" class="map-link" title="Click here for directions">
+  <a href="https://goo.gl/maps/z4kja" class="map-link" target="_blank" title="Click here for directions">
     <img src="/images/maps/doc-house-map.jpg">
   </a>
 </div>
 
-The reception will be held from 5:00 - 10:00 PM on Saturday, March 14, 2015 at the [Dartmouth Outing Club House](https://goo.gl/maps/z4kja) on Occom Pond in Hanover, NH.
+The reception will be held from 5:00 - 10:00 PM on Saturday, March 14, 2015 at the [Dartmouth Outing Club House](https://goo.gl/maps/z4kja){:target="_blank"} on Occom Pond in Hanover, NH.
 
-The venue is only a 3 minute drive from Rollins Chapel. You can drive your own car to the venue (see [Directions](#directions-and-parking)) as there will be ample parking at the Hanover Country Club across the road.
+The venue is only a 3 minute drive from Rollins Chapel. You can drive your own car to the venue (see [Directions](/#directions-and-parking)) as there will be ample parking at the Hanover Country Club across the road.
 
 
 ### Brunch ###
 
-<a href="https://goo.gl/maps/V4WHf" class="map-link map-link-standalone" title="Click here for directions">
+<a href="https://goo.gl/maps/V4WHf" class="map-link map-link-standalone" target="_blank" title="Click here for directions">
   <img src="/images/maps/jesses-map.jpg">
 </a>
 
 If you’re still in the area on Sunday, March 15, 2015 at 10:30 AM, please join us for a brunch buffet at [Jesse’s](https://goo.gl/maps/V4WHf) in Hanover, NH.
 
-For menu and pricing information, see the [restaurant website](http://www.jesses.com/jesses-menu/#brunch).
+For menu and pricing information, see the [restaurant website](http://www.jesses.com/jesses-menu/#brunch){:target="_blank"}.
 
 
 ### Directions and Parking ###
 
-<a href="https://www.google.com/maps/d/edit?mid=zFR_mzWpa23c.kN-U4lPOJLcA" class="map-link map-link-standalone map-link-directions" title="Click here for directions">
+<a href="https://www.google.com/maps/d/edit?mid=zFR_mzWpa23c.kN-U4lPOJLcA" class="map-link map-link-standalone map-link-directions" target="_blank" title="Click here for directions">
   <img src="/images/maps/directions-map.jpg">
 </a>
 

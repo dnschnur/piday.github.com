@@ -7,7 +7,7 @@ layout: default
 FAQ Page for all of your questions-answered needs. Have a burning question thatâ€™s not answered below? [Contact us](/about/contact.html)!
 
 
-- What is Pi Day? - Pi Day is [awesome](http://en.wikipedia.org/wiki/Pi_Day)!
+- What is Pi Day? - Pi Day is [awesome](http://en.wikipedia.org/wiki/Pi_Day){:target="_blank"}!
 
 - Why Pi Day? - [ANSWER]
 
@@ -39,7 +39,7 @@ FAQ Page for all of your questions-answered needs. Have a burning question thatâ
 
 - Is there a gift registry? - Your attendance is more than gift enough, but if you feel the desire, we'll have a registry available soon.
 
-- Who is your photographer? - [Rob Strong](http://www.robstrong.com), an old college friend of the groom's; they were both editors at [The Dartmouth](http://thedartmouth.com).
+- Who is your photographer? - [Rob Strong](http://www.robstrong.com){:target="_blank"}, an old college friend of the groom's; they were both editors at [The Dartmouth](http://thedartmouth.com){:target="_blank"}.
 
 - Who is your videographer? - Adam Eldridge, a very close friend of the bride's family.
 
