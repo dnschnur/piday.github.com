@@ -11,6 +11,10 @@ body {
   position: relative;
 }
 
+img {
+  border: 0;
+}
+
 h2 {
   clear: both;
   font: 3.75em "tangerine", Helvetica, Arial, sans-serif;
