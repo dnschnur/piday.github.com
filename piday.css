@@ -79,7 +79,6 @@ a:hover {
   background-image: url(/images/logo.png);
   -o-background-size: contain;
   -moz-background-size: contain;
-  -ms-behavior: url(/backgroundsize.min.htc);
   -webkit-background-size: contain;
   background-size: contain;
   border: 0;
@@ -89,6 +88,10 @@ a:hover {
   position: absolute;
   top: 20px;
   width: 80px;
+}
+
+.ie8 .title-logo {
+  -ms-behavior: url(/backgroundsize.min.htc);
 }
 
 .title-names {
@@ -396,7 +399,6 @@ input[type=submit]:disabled {
   background-repeat: no-repeat;
   -o-background-size: contain;
   -moz-background-size: contain;
-  -ms-behavior: url(/backgroundsize.min.htc);
   -webkit-background-size: contain;
   background-size: contain;
   bottom: 20px;
@@ -407,6 +409,7 @@ input[type=submit]:disabled {
 }
 
 .ie8 .lightbox-content {
+  -ms-behavior: url(/backgroundsize.min.htc);
   bottom: 0;
   height: 100%;
   left: 0;
