@@ -54,7 +54,7 @@ One place not to miss is [Morano Gelato](http://www.moranogelatohanover.com). Th
 
 If you have time, the Upper Valley offers many activities and attractions, even in winter. Here are a few of our favorite spots, or you can check out the Visitors pages of the [Hanover](http://www.hanoverchamber.org/index.php?id=178&page=Hanover%20Area%20Chamber%20of%20Commerce%20-%20Visitors) and [Lebanon](http://lebanonchamber.com/visitors/) Chambers of Commerce for inspiration.
 
-Looking for something to do between the ceremony and reception? Stop by the Baker Berry Library across the street from Rollins Chapel and check out the [Orozco Mural](http://researchguides.dartmouth.edu/orozco). The mural, by José Clemente Orozco, is a 20th-century fresco entitled "the Epic of Civilization." Spanning the entire study area, this is an impressive work of art and should not be missed.
+Looking for something to do between the ceremony and reception? Stop by the Baker Berry Library across the street from Rollins Chapel and check out the [Orozco Mural](http://researchguides.dartmouth.edu/orozco). The mural, by José Clemente Orozco, is a 20th-century fresco entitled "the Epic of Civilization." Spanning the entire basement study area, this is an impressive work of art and should not be missed.
 
 <a href="https://www.google.com/maps/d/viewer?mid=zFR_mzWpa23c.kE0Jle7iFuxk" class="map-link map-link-standalone map-link-explore" title="Click here for the full map">
   <img src="/images/maps/explore-map.jpg">
