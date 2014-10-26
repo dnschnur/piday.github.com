@@ -406,10 +406,10 @@ input[type=submit]:disabled {
   position: absolute;
   right: 20px;
   top: 20px;
-  z-index: 100;
 }
 
 .ie8 .lightbox-content {
+  background-position: inherit;
   -ms-behavior: url(/backgroundsize.min.htc);
   bottom: 0;
   height: 100%;
@@ -417,6 +417,7 @@ input[type=submit]:disabled {
   right: 0;
   top: 0;
   width: 100%;
+  z-index: 50;
 }
 
 .lightboxable {
