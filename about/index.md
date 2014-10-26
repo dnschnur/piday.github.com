@@ -58,7 +58,7 @@ Felicia
 <div class="profile-info">Name: David Schnur</div>
 <div class="profile-info">Code Name: Mr. Switzerland</div>
 
-David is the bride's handsome better half. A talented Google programmer who wrote this site from scratch, David is the bride's best friend, mixed doubles tennis partner, and the love of her life. Logical and curious with a love for travel, who knows kinds of adventures they'll go on? Fun fact: David lived in India, the Philippines, and China before moving to the U.S.
+David is the bride's handsome better half. A Google programmer who enjoys tabletop gaming and ping pong, David is the bride's best friend, mixed doubles tennis partner, and the love of her life. Logical and curious with a love for travel, who knows kinds of adventures they'll go on? Fun fact: David lived in India, the Philippines, and China before moving to the U.S.
 
 ----------------------------------------------------------------------
 
