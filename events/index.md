@@ -41,7 +41,7 @@ The venue is only a 3 minute drive from Rollins Chapel. You can drive your own c
 
 ### Brunch ###
 
-<a href="https://goo.gl/maps/V4WHf" class="map-link map-link-standalone map-link-jesses" title="Click here for directions">
+<a href="https://goo.gl/maps/V4WHf" class="map-link map-link-standalone" title="Click here for directions">
   <img src="/images/maps/jesses-map.jpg">
 </a>
 

@@ -326,6 +326,7 @@ input[type=submit]:disabled {
 .map-link-standalone {
   float: left;
   margin: 0 25px 40px 0;
+  padding: 8px;
 }
 
 .map-link-standalone img {
@@ -394,23 +395,6 @@ input[type=submit]:disabled {
 
 .lightboxable {
   cursor: pointer
-}
-
-.map {
-  border: 1px solid #ddd;
-  border-radius: 3px;
-  -o-box-shadow: 0 3px 10px rgba(0,0,0,0.15);
-  -moz-box-shadow: 0 3px 10px rgba(0,0,0,0.15);
-  -webkit-box-shadow: 0 3px 10px rgba(0,0,0,0.15);
-  box-shadow: 0 3px 10px rgba(0,0,0,0.15);
-  padding: 10px;
-  position: relative;
-}
-
-.map iframe {
-  border: 0;
-  height: 400px;
-  width: 100%;
 }
 
 /* Welcome page styles */
@@ -532,10 +516,6 @@ input[type=submit]:disabled {
   .menu-item {
     margin: 0 9px;
   }
-
-  .map {
-    height: 400px;
-  }
 }
 
 @media (max-width: 600px) {
@@ -612,12 +592,12 @@ input[type=submit]:disabled {
     padding: 8px;
   }
 
-  .map {
-    height: 300px;
-  }
-
   .photo .map-link img {
     width: 80px;
+  }
+
+  .map-link-standalone {
+    padding: 6px;
   }
 
   .lightbox-content {
@@ -758,14 +738,11 @@ input[type=submit]:disabled {
 
   .map-link-standalone {
     margin-bottom: 150px;
+    padding: 5px;
   }
 
   .map-link-standalone img {
     width: 125px;
-  }
-
-  .map {
-    height: 275px;
   }
 
   .lightbox-content {
