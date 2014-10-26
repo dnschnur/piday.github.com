@@ -29,6 +29,7 @@ $(function() {
       click: function() {
         lightboxContent.css('background-image', 'url(' + fullImage + ')');
         lightbox.fadeIn(function() {
+          // Fixes covered-up image with IE8 background-size:contain polyfill
           lightboxContent.css('z-index', 50);
         });
       }
