@@ -21,8 +21,6 @@ Need a place to rest? Click on the map below for descriptions and links to the b
 
 Our recommendations are the [Residence Inn](http://www.marriott.com) or the [Courtyard Marriott](http://www.marriott.com), both conveniently located 10 minutes from the wedding festivities. Situated in Centerra Park, these hotels are within walking distance of the Coop grocery store, Margarita's Mexican restaurant, and the bride's former employer, Adimab.
 
-If you want to stay even closer, [Six South Street](http://www.sixsouth.com) is Hanover's boutique hotel. While it can be a bit pricey, there are often deals to be had on [Hotels.com](http://www.hotels.com).
-
 ### Dining ###
 
 <div class="double-photos">
