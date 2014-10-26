@@ -15,9 +15,9 @@ Are you coming to the Upper Valley from far away? We've assembled all of the inf
 
 Need a place to rest? Click on the map below for descriptions and links to the best local hotels. Please choose whichever hotel suits your needs best, as we don't have hotel blocks booked due to the relatively low number of out-of-town guests.
 
-Our recommendations are the [Residence Inn](www.marriott.com) or the [Courtyard Marriott](www.marriott.com), both conveniently located 10 minutes from the wedding festivities. Situated in Centerra Park, these hotels are within walking distance of the Coop grocery store, Margarita's Mexican restaurant, and the bride's former employer, Adimab.
+Our recommendations are the [Residence Inn](http://www.marriott.com) or the [Courtyard Marriott](http://www.marriott.com), both conveniently located 10 minutes from the wedding festivities. Situated in Centerra Park, these hotels are within walking distance of the Coop grocery store, Margarita's Mexican restaurant, and the bride's former employer, Adimab.
 
-If you want to stay even closer, [Six South Street](www.sixsouth.com) is Hanover's boutique hotel. While it can be a bit pricey, there are often deals to be had on [Hotels.com](www.hotels.com).
+If you want to stay even closer, [Six South Street](http://www.sixsouth.com) is Hanover's boutique hotel. While it can be a bit pricey, there are often deals to be had on [Hotels.com](http://www.hotels.com).
 
 <a href="https://www.google.com/maps/d/viewer?mid=zFR_mzWpa23c.kBgRWeXc27lg" class="map-link map-link-standalone" title="Click here for the full map">
   <img src="/images/maps/hotels-map.jpg">
@@ -40,7 +40,7 @@ If you want to stay even closer, [Six South Street](www.sixsouth.com) is Hanover
 
 The Upper Valley has a wide variety of delicious dining options. The map below highlights some of our favorites. If you have a dietary restriction or are craving something specific, [contact us](/about/contact.html) for a personalized recommendation.
 
-One place not to miss is [Morano Gelato](www.moranogelatohanover.com). This the bride and groom's favorite place in the Upper Valley. Touted as [the best gelato in America](http://www.forbes.com/sites/larryolmsted/2011/07/05/the-best-gelato-in-america/), Morano Gelato prepares their gelato and sorbets fresh daily using seasonal, local ingredients whenever possible. Fun fact: the groom's favorite flavor is dark chocolate and the bride's favorite is Nutella.
+One place not to miss is [Morano Gelato](http://www.moranogelatohanover.com). This the bride and groom's favorite place in the Upper Valley. Touted as [the best gelato in America](http://www.forbes.com/sites/larryolmsted/2011/07/05/the-best-gelato-in-america/), Morano Gelato prepares their gelato and sorbets fresh daily using seasonal, local ingredients whenever possible. Fun fact: the groom's favorite flavor is dark chocolate and the bride's favorite is Nutella.
 
 <a href="https://mapsengine.google.com/maps/d/viewer?mid=zFR_mzWpa23c.kisGsnW_BqGM" class="map-link map-link-standalone" title="Click here for the full map">
   <img src="/images/maps/food-map.jpg">
