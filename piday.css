@@ -752,7 +752,7 @@ input[type=submit]:disabled {
   }
 
   .map-link-standalone {
-    margin-bottom: 150px;
+    margin-bottom: 20;
     padding: 5px;
   }
 
@@ -775,6 +775,10 @@ input[type=submit]:disabled {
 
   .matterhorn-photo img {
     width: 175px;
+  }
+
+  .map-link-directions {
+    margin-bottom: 150px;
   }
 
   .profile-info {
