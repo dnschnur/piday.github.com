@@ -406,6 +406,7 @@ input[type=submit]:disabled {
   position: absolute;
   right: 20px;
   top: 20px;
+  z-index: 100;
 }
 
 .ie8 .lightbox-content {
