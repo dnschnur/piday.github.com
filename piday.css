@@ -370,7 +370,7 @@ input[type=submit]:disabled {
   background-color: #000;
   background-color: rgba(0,0,0,0.9);
   bottom: 0;
-  cursor: zoom-out;
+  cursor: pointer;
   display: none;
   left: 0;
   position: fixed;
@@ -393,7 +393,7 @@ input[type=submit]:disabled {
 }
 
 .lightboxable {
-  cursor: zoom-in;
+  cursor: pointer
 }
 
 .map {
