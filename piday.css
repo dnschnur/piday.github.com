@@ -411,7 +411,6 @@ input[type=submit]:disabled {
 .ie8 .lightbox-content {
   background-image: url(/images/places/stgaudens-full.jpg);
   -ms-behavior: url(/backgroundsize.min.htc);
-  z-index: 50;
 }
 
 .lightboxable {

@@ -28,7 +28,9 @@ $(function() {
       },
       click: function() {
         lightboxContent.css('background-image', 'url(' + fullImage + ')');
-        lightbox.fadeIn();
+        lightbox.fadeIn(function() {
+          lightboxContent.css('z-index', 50);
+        });
       }
     });
   });
