@@ -409,15 +409,8 @@ input[type=submit]:disabled {
 }
 
 .ie8 .lightbox-content {
-  background-position: inherit;
+  background-image: url(/images/places/stgaudens-full.jpg);
   -ms-behavior: url(/backgroundsize.min.htc);
-  bottom: 0;
-  height: 100%;
-  left: 0;
-  right: 0;
-  top: 0;
-  width: 100%;
-  z-index: 50;
 }
 
 .lightboxable {
