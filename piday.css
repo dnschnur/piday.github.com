@@ -475,6 +475,7 @@ input[type=submit]:disabled {
   padding: 3px 5px;
   position: absolute;
   top: 5px;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Matrix(M11=0.9993908270190958, M12=0.03489949670250033, M21=-0.03489949670250033, M22=0.9993908270190958, SizingMethod='auto expand')";
 }
 
 .profile-photo .title::before {
@@ -889,6 +890,7 @@ input[type=submit]:disabled {
     width: auto;
     margin: 10px 0 20px 0;
     -moz-transform: inherit;
+    -ms-filter: inherit;
     -ms-transform: inherit;
     -webkit-transform: inherit;
     transform: inherit;
