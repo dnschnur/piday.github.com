@@ -9,7 +9,7 @@ FAQ Page for all of your questions-answered needs. Have a burning question thatâ
 
 - What is Pi Day? - Pi Day is [awesome](http://en.wikipedia.org/wiki/Pi_Day){:target="_blank"}!
 
-- Why Pi Day? - Pi Day is the bride's favorite non-standard holiday; and since both the bride and groom are in science and technology fields, what better day to celebrate their love? Plus, pi is a way easier date to remember.
+- Why Pi Day? - Pi Day is the bride's favorite non-standard holiday; and since both the bride and groom are in science and technology fields, what better day to celebrate their love? Plus, it makes remembering their anniversary much easier.
 
 - Why are you getting married in NH when you live in CA? - We lived in the Upper Valley for almost a decade, and it's where our friends and family live. What better place to get married than where it all began?
 
