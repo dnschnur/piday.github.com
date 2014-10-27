@@ -15,11 +15,11 @@ Everything you’ve ever wanted to know about the bride, groom, and wedding part
 
 How they met: 
 
-Although they were introduced online, David and Felicia first met on the Rail Trail in Lebanon, NH. Felicia had found a lost dog (named Buster) wandering the trail, and was searching for its owner. David cycled by and stopped to help. After safely delivering the dog, they made plans for their first date.
+Although they were introduced online, David and Felicia first met on the Rail Trail in Lebanon, NH. Felicia had found a lost dog (named Buster) wandering the trail and was searching for its owner. David cycled by and stopped to help. After safely delivering the dog, they made plans for their first date.
 
 First date: 
 
-Hiking the Velvet Rocks trail in Hanover, NH. It was a challenging (read: slippery) hike whose views didn't quite live up to the hype, but they found yet another lost dog. They nicknamed it “Columbus” for its unwavering certainty that it was heading in the right direction, when clearly it wasn't. Columbus was reunited with his owner at the trailhead.
+Hiking the Velvet Rocks trail in Hanover, NH. It was a challenging (read: slippery) hike whose views didn't quite live up to the hype, but they found yet another lost dog. They nicknamed it “Columbus” for its unwavering certainty that it was heading in the right direction, when clearly it wasn't. Columbus was reunited with its owner at the trailhead.
 
 When they officially became a couple: 
 
@@ -46,7 +46,7 @@ David proposed on August 3, 2013 in Zermatt, Switzerland during a sunset hike ne
 <div class="profile-info">Name: Felicia Reid</div>
 <div class="profile-info">Code Name: Fle</div>
 
-Felicia is the groom's beautiful better half. A Genentech scientist who's never far from her knitting needles and crochet hooks, Felicia is the groom's best friend, ???, and the love of his life. Eager to explore, and with a keen sense of composition, Felicia's photos of the couple's travels are always the ones worth sharing. Fun fact: ???
+Felicia is the groom's beautiful better half. A Genentech scientist who's never far from her knitting needles and crochet hooks, Felicia is the groom's best friend, ???, and the love of his life. Eager to explore and with a keen sense of composition, Felicia's photos of the couple's travels are always the ones worth sharing. Fun fact: ???
 
 ----------------------------------------------------------------------
 
