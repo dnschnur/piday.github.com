@@ -39,14 +39,14 @@ David proposed on August 3, 2013 in Zermatt, Switzerland during a sunset hike ne
 ### Wedding Party ###
 
 <div class="photo profile-photo profile-photo-felicia">
-  <img src="/images/people/shadow.jpg">
+  <img src="/images/people/felicia.jpg">
   <div class="title">The Bride</div>
 </div>
 
 <div class="profile-info">Name: Felicia Reid</div>
-<div class="profile-info">Code Name: </div>
+<div class="profile-info">Code Name: Fle</div>
 
-Felicia
+Felicia is the groom's beautiful better half. A Genentech scientist who's never far from her knitting needles and crochet hooks, Felicia is the groom's best friend, ???, and the love of his life. Eager to explore, and with a keen sense of composition, Felicia's photos of the couple's travels are always the ones worth sharing. Fun fact: ???
 
 ----------------------------------------------------------------------
 
@@ -58,7 +58,7 @@ Felicia
 <div class="profile-info">Name: David Schnur</div>
 <div class="profile-info">Code Name: Mr. Switzerland</div>
 
-David is the bride's handsome better half. A Google programmer who enjoys tabletop gaming and ping pong, David is the bride's best friend, mixed doubles tennis partner, and the love of her life. Logical and curious with a love for travel, who knows kinds of adventures they'll go on? Fun fact: David lived in India, the Philippines, and China before moving to the U.S.
+David is the bride's handsome better half. A Google software engineer who enjoys tabletop gaming and ping pong, David is the bride's best friend, mixed doubles tennis partner, and the love of her life. Logical and curious with a love for travel, who knows kinds of adventures they'll go on? Fun fact: David lived in India, the Philippines, and China before moving to the U.S.
 
 ----------------------------------------------------------------------
 
