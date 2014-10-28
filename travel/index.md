@@ -42,7 +42,7 @@ The Upper Valley has a wide variety of delicious dining options. The map below h
   <img src="/images/maps/food-map.jpg">
 </a>
 
-One place not to miss is [Morano Gelato](http://www.moranogelatohanover.com){:target="_blank"}. This the bride and groom's favorite place in the Upper Valley. Touted as [the best gelato in America](http://www.forbes.com/sites/larryolmsted/2011/07/05/the-best-gelato-in-america/){:target="_blank"}, Morano Gelato prepares their gelato and sorbets fresh daily using seasonal, local ingredients whenever possible. Fun fact: the groom's favorite flavor is dark chocolate and the bride's favorite is Nutella.
+One place not to miss is [Morano Gelato](http://www.moranogelatohanover.com){:target="_blank"}. This is the bride and groom's favorite place in the Upper Valley. Touted as [the best gelato in America](http://www.forbes.com/sites/larryolmsted/2011/07/05/the-best-gelato-in-america/){:target="_blank"}, Morano Gelato prepares their gelato and sorbets fresh daily using seasonal, local ingredients whenever possible. Fun fact: the groom's favorite flavor is dark chocolate and the bride's favorite is Nutella.
 
 ### Explore the Upper Valley ###
 
