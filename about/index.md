@@ -46,7 +46,7 @@ David proposed on August 3, 2013 in Zermatt, Switzerland during a sunset hike ne
 <div class="profile-info">Name: Felicia Reid</div>
 <div class="profile-info">Code Name: Fle</div>
 
-Felicia is the groom's beautiful better half. A Genentech scientist who's never far from her knitting needles and crochet hooks, Felicia is the groom's best friend, ???, and the love of his life. Eager to explore and with a keen sense of composition, Felicia's photos of the couple's travels are always the ones worth sharing. Fun fact: ???
+Felicia is the groom's beautiful better half. A Genentech scientist who's never far from her knitting needles and crochet hooks, Felicia is the groom's bestå framstå, source of Gute Ideen, and makes every day a wonderful one. Eager to explore and with a keen sense of composition, Felicia's photos of the couple's travels are always the ones worth sharing. Fun fact: Felicia is half-German, and makes a delicious Schnitzel mit Spätzle und Gurkensalat.
 
 ----------------------------------------------------------------------
 
