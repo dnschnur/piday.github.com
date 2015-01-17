@@ -64,5 +64,6 @@ Questions? [Contact us](/about/contact.html).
     </div>
   </div>
   <input type="submit" name="submit" value="RSVP" disabled>
-  <span class="confirmation">Thank you!</span>
+  <span class="confirmation">We're looking forward to seeing you there!</span>
+  <span class="confirmation">We're sorry you won't be able to make it!</span>
 </form>

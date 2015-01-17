@@ -79,7 +79,17 @@ $(function() {
     $.post(url, data).always(function() {
       window.console.log('You can ignore the error above.');
       inputs.prop('disabled', false);
-      confirmation.show();
+      if (confirmation.length === 2) {
+        // Special case for the RSVP form
+        var attending = $('input[name="entry.1363803774"]:checked').val();
+        if (attending.indexOf('Yes') === 0) {
+          confirmation.first().show();
+        } else {
+          confirmation.last().show();
+        }
+      } else {
+        confirmation.show();
+      }
     });
 
     event.preventDefault();
