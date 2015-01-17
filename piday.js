@@ -49,14 +49,24 @@ $(function() {
     input.toggleClass('invalid', !input.val());
   });
 
-  // Keep the submit button disabled until everything is valid
-  required.keyup(function() {
+  // Validation helper
+  var validate = function() {
     var valid = true;
     required.each(function() {
-      return valid &= !!$(this).val();
+      var element = $(this);
+      var elementType = element.prop('type');
+      if (elementType === 'radio') {
+        var elementName = element.prop('name');
+        valid &= !!$('input[name="' + elementName + '"]:checked').length;
+      } else {
+        valid &= !!$(this).val();
+      }
     });
     submit.prop('disabled', !valid);
-  });
+  };
+
+  // Keep the submit button disabled until everything is valid
+  required.keyup(validate).click(validate);
 
   // Submit asynchronously and show a confirmation message
   form.submit(function(event) {
