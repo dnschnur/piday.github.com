@@ -244,9 +244,12 @@ input:invalid, input.invalid, textarea.invalid {
 input[type=text], input[type=email] {
   width: 250px;
 }
+input[type=text].wide {
+  width: 400px;
+}
 
 textarea {
-  height: 200px;
+  height: 125px;
   width: 450px;
 }
 
@@ -282,6 +285,20 @@ input[type=submit]:disabled {
   display: inline-block;
   white-space: nowrap;
   width: 100%;
+}
+
+.form-field ul {
+  list-style-type: none;
+  margin: 5px 0 0 0;
+  padding-left: 0;
+}
+.form-field li {
+  padding: 5px 0;
+}
+.form-field li input {
+  margin-right: 7px;
+  position: relative;
+  top: -2px;
 }
 
 .confirmation {
