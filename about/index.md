@@ -98,15 +98,15 @@ Carl is a long time friend of both the groom and bride. Scientist by trade, farm
 
 ----------------------------------------------------------------------
 
-<div class="photo profile-photo profile-photo-unknown">
-  <img src="/images/people/shadow.jpg">
+<div class="photo profile-photo profile-photo-robert">
+  <img src="/images/people/robert.jpg">
   <div class="title">Groomsman #2</div>
 </div>
 
 <div class="profile-info">Name: Robert Hoyle</div>
-<div class="profile-info">Code Name: ?</div>
+<div class="profile-info">Code Name: Illuminati</div>
 
-Robert is one of the groom's closest friends. A PhD candidate in computer science, tabletop gamer, and owner of three big, friendly cats, Robert is credited with introducing the bride and groom to their beloved cat Star. Calm under pressure, Robert will be an asset to the wedding party.
+Robert is one of the groom's closest friends. A PhD candidate in computer science, tabletop gamer, and owner of three big, friendly cats, Robert is credited with introducing the bride and groom to their beloved cat Star. Calm under pressure, Robert contributes levels in every character class, and you know how hard it is to find a healer.
 
 ----------------------------------------------------------------------
 
