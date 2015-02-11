@@ -538,6 +538,17 @@ input[type=submit]:disabled {
   left: 50px;
 }
 
+.registry-link {
+  display: block;
+  margin-top: 50px;
+  margin-bottom: 70px;
+  width: 70%;
+}
+
+.registry-link img {
+  width: 100%;
+}
+
 /* Responsive style overrides for smaller widths and mobile devices */
 
 @media (max-width: 800px) {
